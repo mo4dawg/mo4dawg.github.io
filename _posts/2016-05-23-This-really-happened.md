@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This really happened"
+title: "This Really Happened"
 date: 2016-05-23
 ---
 
