@@ -3,6 +3,7 @@ layout: post
 title: "This really happened"
 date: 2016-05-23
 ---
+
 We've all heard or been a part of a few nightmare travel experiences.  I just had one that you would expect in a third world country with some local fly by night organization with shady undertones.  But no, this was in the good old USA involving companies you know of. Maybe you even like these companies.  I don't.
 
 It started Friday with a text from United Airlines saying my flight from Seattle to Chicago was going to be an hour late because of a technical issue.  Okay, that was still going to work.  I needed to catch a connection to Grand Rapids because I was on my way to my son's college graduation at Calvin College.  There was still a small window even though I would need to scamper from Concourse C to Concourse E.  But then I go another text saying the flight was going to be another hour late and get in after 9:00.  That was a big problem because the connector flight departure was 9:05.  If you have any knowledge of O'Hare Airport you know that it's 15 minutes and a dead sprint form Concourse C to Concourse E.  I just plain wasn't going to catch the connection.  So I knew they would put me up in a hotel, or I could drive to Grand Rapids which is about three and a half hours.  I had done that drive at night before four years earlier, and done it early morning the reverse way as my son and I drove back to Seattle last May.  When we finally arrived in Chicago and deplaned at 9:30 the last flight of the night to Grand Rapids was probably approaching Gerald Ford Field.
