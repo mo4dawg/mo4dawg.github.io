@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go Daddy Links"
+title: "Go To Go Daddy And Buy Your Domain Name"
 date: 2016-05-24
 ---
 
