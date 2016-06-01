@@ -19,9 +19,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
-div > p {
-    border-bottom: 1px solid #d5d5d5;
-}
 h1 {
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
