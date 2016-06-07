@@ -23,6 +23,6 @@ So, then a second person came into the lobby to announce "there is no bed in my 
 Our only plan was to find someplace comfortable to lounge in the airport.  We managed to find an unlocked door.  Yes, they actually close the lobby for a few hours.  TSA screening was closed so I found a couple seats and tried to shut my eyes.  But as it would be I was darn right cold and they were doing construction around the corner because that is the only time of day they can run jack hammers. Anyway I just sat there until after 3:00 a.m. and finally went through security to the waiting area where I proceeded to just hang out for another four hours for my flight. 
 
  ![Selfie as I was layed out on a couple chairs](https://cloud.githubusercontent.com/assets/19477681/15873144/0aae8d16-2cb2-11e6-9d1d-b94ac89cac69.jpg)
- *My selfie, trying to get some rest around 3:00AM*
+ *My selfie, trying to get some rest around 3:00 a.m.*
  
 It was a bad night.  It messed me up for the graduation day, Saturday.  But I'm glad I went and my son was glad to see me.  It was a miserable night but it makes a memory and something to blog about.  That's what life is, a bunch of memories.  Some are better than others. 
