@@ -1,3 +1,5 @@
 name: Kevin Connell, Technology Leader
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+gems:
+  - jekyll-feed
