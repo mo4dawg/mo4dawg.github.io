@@ -1,5 +1,7 @@
 ---
-Take Some Time Off, You Need It
+layout: post
+title: "Take Some Time Off, You Need It"
+date: 2016-06-13
 ---
 We all take time off, but these days there is a never ending stream of inputs. It's really hard to have downtime. Work email and kids or family are always there. And those long lost friends. What are they up to? Having just spent a couple months with real downtime I think we should all periodically just quit our jobs or go on sabbatical. The downtime I'm referring to is much different than vacation or PTO or whatever they call it. 
 At work I try to keep the big picture in mind so my teams can concentrate on their tasks. I like to periodically share the vision or talk about it with the team and I think I'm pretty good at it. But now that I'm in this interlude between jobs it has become quite apparent that the big picture is more than the master plan of the project or whatever the buzz word that has captured our leadership. It is taking time to read. We should all read a lot. It is taking time to investigate and be curious. I have learned so much about so many companies that I feel much more in touch with the business world. It is taking time learn new technology or review our old stuff and relearn something again. It's time for reflection. I know a few people who are quite good at doing this while working and they are ultimately high achievers. 
