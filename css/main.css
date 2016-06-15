@@ -1,11 +1,11 @@
 .MyGradientClass
 {
-    height:1200px;
-     background-image: linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-    background-image: -o-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-    background-image: -moz-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-    background-image: -webkit-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-    background-image: -ms-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
+    height:1240px;
+   //  background-image: linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
+  //  background-image: -o-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
+  //  background-image: -moz-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
+  //  background-image: -webkit-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
+   // background-image: -ms-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
 
     background-image: -webkit-gradient(
         linear,
