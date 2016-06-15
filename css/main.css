@@ -11,9 +11,9 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.25, rgb(133,133,62)),
-        color-stop(0.63, rgb(152,167,93)),
-        color-stop(0.82, rgb(191,207,121))
+        color-stop(0.25, rgb(153,159,62)),
+        color-stop(0.63, rgb(172,187,93)),
+        color-stop(0.82, rgb(211,227,121))
     );   
 }​
 body {
@@ -32,7 +32,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #77C;
+    color: #88C;
 }
 a:hover {
     text-decoration: underline;
