@@ -1,6 +1,9 @@
 ---
-Title: I Ran a Full Half Marathon Monday
+layout: post
+title: "I Ran a Full Half Marathon Monday"
+date: 2016-06-16
 ---
+
 This employment interlude which started mid March has been a boon for my running.  I'm not officially training for a specific run, but I have been increasing my distance and working on my pace.  A side benefit is I've lost a few of those midlife pounds I put on.   My weight has consistently stayed in the 179-182 range in May and June after being about 195 around Christmas.  
 
 Over the past ninety days I have increased my distance at least once a week starting at about 8 miles. On Monday I ran a full half marathon distance for the first time.  It covered Richmond Beach, Woodway and much of Edmonds including climbing out of the Edmonds bowl on mile 11.  I started out too fast, as if I were racing.  My splits for the first six miles ranged from 8:14 to mile 6 at 8:53.  If I were in shape the way I want to be mile 6 would have been flat out my first or second fastest mile because it is mostly downhill or flat.  instead I was already feeling drained like my reserves were low.   
