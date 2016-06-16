@@ -3,11 +3,11 @@
     height:100%;
     margin: 30px auto;
     width: 85%;
- /*    background-image: linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-    background-image: -o-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-    background-image: -moz-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-    background-image: -webkit-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%);
-    background-image: -ms-linear-gradient(bottom, rgb(113,61,62) 25%, rgb(147,92,93) 63%, rgb(177,120,121) 82%); */
+    background-image: linear-gradient(bottom, rgb(160,168,60) 25%, rgb(182,199,93) 63%, rgb(221,241,121) 82%);
+    background-image: -o-linear-gradient(bottom, rgb(160,168,60) 25%, rgb(182,199,93) 63%, rgb(221,241,121) 82%);
+    background-image: -moz-linear-gradient(bottom, rgb(160,168,60) 25%, rgb(182,199,93) 63%, rgb(221,241,121) 82%);
+    background-image: -webkit-linear-gradient(bottom, rgb(160,168,60) 25%, rgb(182,199,93) 63%, rgb(221,241,121) 82%);
+    background-image: -ms-linear-gradient(bottom, rgb(160,168,60) 25%, rgb(182,199,93) 63%, rgb(221,241,121) 82%);
 
     background-image: -webkit-gradient(
         linear,
