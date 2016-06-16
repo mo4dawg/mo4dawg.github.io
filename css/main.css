@@ -11,13 +11,13 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.25, rgb(163,171,62)),
+        color-stop(0.25, rgb(160,168,60)),
         color-stop(0.63, rgb(182,199,93)),
         color-stop(0.82, rgb(221,241,121))
     );   
 }​
 body {
-    margin: 60px auto;
+    margin: 60px;
     width: 70%;
 }
 nav ul, footer ul {
