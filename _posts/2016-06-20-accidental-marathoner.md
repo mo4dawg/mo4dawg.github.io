@@ -21,3 +21,4 @@ Since the pacers had turned off I was pacing myself with a woman I could tell wa
 
 In the end my final official time was 1:56:49 for an 8:55 pace.  Pretty good.  I'm pleased that my first ever official half marathon was under two hours.  I finished in the top 16.2%.  Not bad for an over 50 dude who has never been in shape for distance running. 
  
+ "https://cloud.githubusercontent.com/assets/19477681/16214263/59c17900-370b-11e6-93c9-e7e611111dd1.jpg"
