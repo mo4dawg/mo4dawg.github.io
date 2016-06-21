@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Follow up to my iPhone Saga"
-date: 016-06-21
+date: 2016-06-21
 ---
 As I mentioned in my May 25 post, I took my iPhone 6 into the Genius Bar to see why the phone was locking up.  Well the "genius" there said my touchscreen was defective after she ran a simple diagnostic on it.  Hmm, it really seemed to be a resource contention issue from my use of it.  So for $109 they would replace the screen.  Okay, I suppose.  So I roamed the mall for two hours and when I came back I had to wait for another 15 minutes.  Then they came to tell me the phone still didn't pass their tests so here, you get a brand new phone – and only for the $109 plus tax.  Hey, not bad, right? 
 
