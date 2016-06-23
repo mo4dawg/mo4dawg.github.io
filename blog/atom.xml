@@ -5,8 +5,8 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Kevin Connell's Blog</title>
-	<link href="http://mo4dawg.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://mo4dawg.github.io/blog"/>
+	<link href="http://kevinjconnell.com"/>
+	<link type="application/atom+xml" rel="self" href="http://mo4dawg.github.io/atom.xml"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://mo4dawg.github.io/blog</id>
 	<author>
@@ -16,12 +16,17 @@ layout: feed
 
 	{% for post in site.posts %}
 		<entry>
+			<id>http://mo4dawg.github.io{{ post.id }}</id>
+			<link type="text/html" rel="alternate" href="http://mo4dawg.github.io{{ post.url }}"/
 			<title>{{ post.title }}</title>
 			<link href="http://mo4dawg.github.io{{ post.url }}"/>
+			<published>{{ post.date | date_to_xmlschema }}</published>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://mo4dawg.github.io/{{ post.id }}</id>
+			<author>
+				<name>Kevin Connell</name>
+				<email>kevinjconnell@hotmail.com</email>
+			</author>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
-
 </feed>
