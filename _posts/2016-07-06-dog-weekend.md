@@ -12,7 +12,7 @@ The hike has a decent ascent rate but since we are in pretty good running shape 
 We took some great photos and fed the dogs some treats and water.  And then some water.  And more water.  Okay, they turned out to be pretty waisted.  They wouldn't touch the regular dog food and Jack wouldn't eat the treats, but Bear would.  
 
 ![Mt index from Beckler Peak](https://cloud.githubusercontent.com/assets/19477681/16632783/ad94b4ae-437a-11e6-89e4-d53b5f89ccd5.JPG)
- *Mt Index from Beckler Peak*
+ {:height="96x" width="140px"}*Mt Index from Beckler Peak*
 
 Coming down we were really flying around 14-15 minutes a mile.  But them with about a mile to go Jack sat down.  I mean he just sat down!  With some coaxing and water we got him down to a stream where both dogs took in some cold water.  Hopefully no giardia.   Then there was another stream and Jack was about to just plain sit in it.  After a couple more sit-downs where we let Jack rest we made it to where a stream has washed out the trail indicating we had less than half a mile to go.  But immediately after climbing out of the washout Jack sat down.  This time was different.  I tried pulling him but he literally fell on his side so that I dragged him a couple feet.  Hmm, this dog weighs over a hundred pounds.  I tried lifting him with his backpack handle and helping him walk, but no he just crumpled down.  What to do?  I was contemplating lifting him up and putting him on my shoulders.  About that time a group we had recently passed came by with their little dog named Scout.  I think that did not sit well with the dogs.  Eventually Karen came up with idea to give them some cheese and that did the trick.  Jack had just enough energy to pick himself up and continue.
 
