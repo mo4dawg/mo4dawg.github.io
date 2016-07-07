@@ -9,7 +9,7 @@ We decided to do this Saturday, July 2.  Considering that's smack in the middle 
 
 The hike has a decent ascent rate but since we are in pretty good running shape it wasn't difficult.  we made the summit in about 90 minutes.  So even though we left the house after 9:00, stopped at Starbucks, drove most of the way to Stevens Pass, and 6.5 miles up a dirt road, we were on the summit at noon.  That was pretty good.  The dogs did very well going up.  I was impressed that Jack, who has nicknames that includes "1 mile Jack" did so well.  But at the summit you could see the exhaustion. 
 
-We took some great photos and fed the dogs some treats and water.  And then some water.  And more water.  Okay, they turned out to be pretty waisted.  They wouldn't touch the regular dog food and Jack wouldn't eat the treats, but Bear would.  
+We took some great photos and fed the dogs some treats and water.  And then some water.  And more water.  Okay, they turned out to be pretty wasted.  They wouldn't touch the regular dog food and Jack wouldn't eat the treats, but Bear would.  
 
 ![Mt index from Beckler Peak](https://cloud.githubusercontent.com/assets/19477681/16632783/ad94b4ae-437a-11e6-89e4-d53b5f89ccd5.JPG){:height="300x" width="400px"} *Mt Index from Beckler Peak*
 
