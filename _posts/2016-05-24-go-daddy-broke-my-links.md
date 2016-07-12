@@ -8,6 +8,4 @@ So I bought my domain name today.  It's good to own your name on the internet th
 
 # Check for your name [here](https://www.godaddy.com/offers/default.aspx?isc=cjc99com&tmskey=1dom_03&cvosrc=affiliate.cj.7790004)
 
-But as luck would have it when I forward my github website to my domain name there is an issue with linking to LinkedIn or hotmail.  The links work if you go directly using [mo4dawg.github.io](http://mo4dawg.github.io) but fail when you use [kevinjconnell.com](http://www.kevinjconnell.com).  This is probably on me, I admit to be a novice web developer. 
-
-*Update: 2016-05-25.  Simple fix.  Just have page open in new tab.*
+But as luck would have it when I forward my github website to my domain name there is an issue with linking to LinkedIn or hotmail.  The links work if you go directly using [mo4dawg.github.io](http://mo4dawg.github.io) but fail when you use [kevinjconnell.com](http://www.kevinjconnell.com).  This is probably on me, I admit to be a novice web developer. *Update: 2016-05-25.  Simple fix.  Just have page open in new tab.*
