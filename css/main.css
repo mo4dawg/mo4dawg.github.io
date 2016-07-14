@@ -13,9 +13,9 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.20, rgb(190,194,230)),
-        color-stop(0.54, rgb(202,208,242)),
-        color-stop(0.82, rgb(223,230,255))
+        color-stop(0.20, rgb(202,220,232)),
+        color-stop(0.54, rgb(220,238,248)),
+        color-stop(0.82, rgb(232,244,255))
     );   
 }
 .MyBackgroundClass
