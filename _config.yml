@@ -1,7 +1,9 @@
 name: Kevin Connell, Technology Leader
+description:  Kevin Connell's Blog
+url:  kevinjconnell.com/blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
   - jekyll-feed
 feed:
-  path: atom.xml
+  path: feed.xml
