@@ -13,8 +13,8 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.25, rgb(108,108,212)),
-        color-stop(0.63, rgb(140,140,230)),
+        color-stop(0.25, rgb(128,128,218)),
+        color-stop(0.63, rgb(150,150,238)),
         color-stop(0.82, rgb(180,180,255))
     );   
 }​
@@ -35,7 +35,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #22A;
+    color: #229;
 }
 a:hover {
     text-decoration: underline;
