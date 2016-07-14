@@ -9,10 +9,10 @@ layout: none
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:10 %}
       <item>
-        <p><title>{{ post.title | xml_escape }}</title>
+        <span><title>{{ post.title | xml_escape }}</title>
         <pubDate>{{ post.date | date_to_string  }}</pubDate>
         <link>{{ site.url }}/{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid></p>
+        <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid></span>
       </item>
     {% endfor %}
   </channel>
