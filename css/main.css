@@ -13,9 +13,9 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.25, rgb(128,128,218)),
-        color-stop(0.63, rgb(150,150,238)),
-        color-stop(0.82, rgb(180,180,255))
+        color-stop(0.25, rgb(130,130,220)),
+        color-stop(0.63, rgb(154,154,238)),
+        color-stop(0.82, rgb(188,188,255))
     );   
 }​
 body {
@@ -54,7 +54,7 @@ p {
    /* color: #333; */
 }
 footer {
-    border-top: 2px solid #888844;
+    border-top: 2px solid #444488;
     font-size: .8em;
 }
 
