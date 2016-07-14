@@ -17,16 +17,16 @@
         color-stop(0.54, rgb(202,208,242)),
         color-stop(0.82, rgb(223,230,255))
     );   
-}​
-body {
-    margin: 60px auto;
-    width: 80%;
 }
 .MyBackgroundClass
 {
     background-image: "https://cloud.githubusercontent.com/assets/19477681/16857703/84c76e60-49d6-11e6-9cb4-aa258b00416d.jpg";
     background-color: #cccccc;
-}​
+}
+body {
+    margin: 60px auto;
+    width: 80%;
+}
 
 nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
