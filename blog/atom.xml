@@ -25,7 +25,6 @@ layout: feed
 				<name>Kevin Connell</name>
 				<email>kevinjconnell@hotmail.com</email>
 			</author>
-			<content type="html"><p></p></content>
 		</entry>
 	{% endfor %}
 </feed>
