@@ -7,7 +7,7 @@ layout: none
 	<title>Kevin Connell's Blog</title>
 	<link href="http://kevinjconnell.com"/>
 	<link type="application/atom+xml" rel="self" href="http://kevinjconnell.com/atom.xml"/>
-	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<updated>{{ site.time | date_to_string }}</updated>
 	<id>http://kevinjconnell.com/blog</id>
 	<author>
 		<name>Kevin Connell</name>
@@ -15,16 +15,13 @@ layout: none
 	</author>
 
 	{% for post in site.posts %}
-		<entry>
+		<item>
 			<id>http://kevinjconnell.com{{ post.id }}</id>
 			<link type="text/html" rel="alternate" href="http://kevinjconnell.com{{ post.url }}"/
 			<title>{{ post.title }}</title>
 			<link href="http://kevinjconnell.com{{ post.url }}"/>
 			<published>{{ post.date | date_to_string }}</published>
-			<author>
-				<name>Kevin Connell</name>
-				<email>kevinjconnell@hotmail.com</email>
-			</author>
-		</entry>
+			
+		</item>
 	{% endfor %}
 </feed>
