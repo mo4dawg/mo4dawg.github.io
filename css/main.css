@@ -20,7 +20,10 @@
 }​
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+
 }
 nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
