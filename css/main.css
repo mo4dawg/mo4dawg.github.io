@@ -13,9 +13,9 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.25, rgb(60,60,160)),
-        color-stop(0.63, rgb(82,82,182)),
-        color-stop(0.82, rgb(121,121,240))
+        color-stop(0.25, rgb(80,60,192)),
+        color-stop(0.63, rgb(102,82,220)),
+        color-stop(0.82, rgb(121,121,255))
     );   
 }​
 body {
