@@ -59,6 +59,17 @@ p {
     line-height: 1.4em;
     color: #333; 
 }
+table, th , td {
+    border-collapse: collapse;
+    padding: 5px;
+}
+table tr:nth-child(odd) {
+    background-color: #99BBDD;
+}
+table tr:nth-child(even) {
+    background-color: #99BBDD;
+}
+99BBDD
 footer {
     border-top: 2px solid #444499;
     font-size: .8em;
