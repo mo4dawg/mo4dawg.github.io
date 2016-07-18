@@ -69,7 +69,6 @@ table tr:nth-child(odd) {
 table tr:nth-child(even) {
     background-color: #99BBDD;
 }
-99BBDD
 footer {
     border-top: 2px solid #444499;
     font-size: .8em;
