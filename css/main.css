@@ -13,7 +13,7 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.20, rgb(202,220,232)),
+        color-stop(0.20, rgb(102,120,132)),
         color-stop(0.54, rgb(220,238,248)),
         color-stop(0.82, rgb(232,244,255))
     );   
