@@ -68,6 +68,7 @@ p {
 table, th , td {
     border-collapse: collapse;
     padding: 5px;
+    background-color: #BB0000;
 }
 table tr:nth-child(odd) {
     background-color: #99BBDD;
