@@ -26,8 +26,8 @@
 
 .MyZoomClass
 {
-    zoom: 3; 
-    -moz-transform: scale(3);     
+    zoom: 1.2; 
+    -moz-transform: scale(1.2);     
 }
 
 body {
