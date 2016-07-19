@@ -30,22 +30,22 @@
     -moz-transform: scale(1.2);     
 }
 
-.topClass {
+.MyTopClass {
     border-top:thin solid;
     border-color:black;
 }
 
-.bottomClass {
+.MyBottomClass {
     border-bottom:thin solid;
     border-color:black;
 }
 
-.leftClass {
+.MyLeftClass {
     border-left:thin solid;
     border-color:black;
 }
 
-.rightClass {
+.MyRightClass {
     border-right:thin solid;
     border-color:black;
 }
