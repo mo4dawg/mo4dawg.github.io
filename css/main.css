@@ -70,7 +70,7 @@ table, th , td {
     padding: 5px;
 }
 table tr:nth-child(odd) {
-    background-color: #BB0000;
+    background-color: ##99BBDD;
 }
 table tr:nth-child(even) {
     background-color: #99BBDD;
