@@ -11,7 +11,7 @@
 
     background-image: -webkit-gradient(
         linear,
-        left bottom,
+        left ,
         right top,
         color-stop(0.20, rgb(102,120,132)),
         color-stop(0.54, rgb(220,238,248)),
