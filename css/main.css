@@ -24,11 +24,12 @@
     padding:0in 0in 1.0pt 0in;margin-left:0in;margin-right:12.6pt;   
 }
 
-.MyBackgroundClass
+.MyZoomClass
 {
-    background-image: "https://cloud.githubusercontent.com/assets/19477681/16857703/84c76e60-49d6-11e6-9cb4-aa258b00416d.jpg";
-    background-color: #cccccc;
+    zoom: 3; 
+    -moz-transform: scale(3);     
 }
+
 body {
     margin: 60px auto;
     width: 80%;
