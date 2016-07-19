@@ -68,10 +68,9 @@ p {
 table, th , td {
     border-collapse: collapse;
     padding: 5px;
-    background-color: #BB0000;
 }
 table tr:nth-child(odd) {
-    background-color: #99BBDD;
+    background-color: #BB0000;
 }
 table tr:nth-child(even) {
     background-color: #99BBDD;
