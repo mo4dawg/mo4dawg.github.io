@@ -30,9 +30,29 @@
     -moz-transform: scale(1.2);     
 }
 
+.topClass {
+    border-top:thin solid;
+    border-color:black;
+}
+
+.bottomClass {
+    border-bottom:thin solid;
+    border-color:black;
+}
+
+.leftClass {
+    border-left:thin solid;
+    border-color:black;
+}
+
+.rightClass {
+    border-right:thin solid;
+    border-color:black;
+}
+
 body {
     margin: 60px auto;
-    width: 80%;
+    width: 90%;
 }
 
 nav ul, footer ul {
