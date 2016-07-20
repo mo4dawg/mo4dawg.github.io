@@ -20,7 +20,7 @@ permalink: /tags/
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <h3 id="#{{ tag_name | slugize }}">{{ tag_name }}</h3>
     <a name="{{ tag_name | slugize }}"></a>
-    <table bgcolor="#FF0000" style="width:50%">
+    <table style="width:50%">
       {% for post in site.tags[tag_name] %}
         <tr>
         <article class="archive-item">
