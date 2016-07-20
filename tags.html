@@ -24,8 +24,8 @@ permalink: /tags/
       {% for post in site.tags[tag_name] %}
         <tr>
         <article class="archive-item">
-            <td><h4><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h4>
-            </td> <td><h4>{{post.date|date_to_string }}</h4></td>
+            <td><h4><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h4></td>
+            <td><h4>{{post.date|date_to_string }}</h4></td>
          </article>
         </tr>
       {% endfor %}
