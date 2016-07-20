@@ -45,9 +45,9 @@ Here’s a Kelly's explanation of each one…
 **Together.**  *This is the simplest principle of all, but often it’s not simple in an existing organisation where functional teams have sprung up in different locations.  Now reorganising the teams isn’t just about the structure of reporting lines and seating arrangements, it’s also about relocating people and that’s not easy.  There may be economic or other reasons for not co-locating people, but if at all possible, sit people close together.* 
 
 --- 
-So wow, that describes the reasons this team was so productive, fun and successful.  I feel lucky to have had such a great team.  I think it is difficult and quite for all 7 of these principles to come into play.  But at least now I have a very good understanding of what to work towards.  But I think the core part of this is assembling the right team first.  They must be talented above all else because an established stable team of second rate talent is not going to be a winning team. 
+So wow, that describes the reasons this team was so productive, fun and successful.  I feel lucky to have had such a great team.  I think it is difficult and quite rare for all 7 of these principles to come into play.  But at least now I have a very good understanding of what to work towards.  But I think the core part of this is assembling the right team first.  They must be talented above all else because an established stable team of second rate talent is not going to be a winning team. 
 
-As a team leader there are a few important things to keep the team at top performance.  Here are my insight from the past 30 years:
+As a team leader there are a few important things to keep the team at top performance.  Here are my insights from the past 30 years:
 
 **Communication –** what is the team mission, what is the project goal?  Explain it in business terms.  How does it benefit the organization?  When the team knows it's mission and has bought into the value of their work they will be jazzed to come to work each day. 
 
