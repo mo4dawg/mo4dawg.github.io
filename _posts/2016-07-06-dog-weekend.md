@@ -2,6 +2,9 @@
 layout: post
 title: "Beckler Peak Hike Doggie Adventure"
 date: 2016-07-06
+tags:
+- living
+published: true
 ---
 I haven't posted for a while.  Basically nothing compelling has happened except for a few job hunt setbacks.  However I was introduced to Beckler Peak over the holiday.  This is a great hike off of Hwy 2.  You take Forest Service Road 6066 left 1.9 miles past the Skykomish Ranger Station.  The trail head is 6.5 miles up a gravel road that is pocked with deep potholes but you can steer around them.  The hike itself is just under 4 miles each way starting at an elevation above 2700 feet and climbs to about 5100 feet. 
 
