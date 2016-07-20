@@ -2,6 +2,10 @@
 layout: post
 title: "Why Did I Buy an iPhone?"
 date: 2016-05-25
+tags:
+- iPhone
+- living
+published: true
 ---
 
 I'm very disappointed with my iPhone.  Last Spring after a run I dropped my phone while fumbling with bringing in the garbage bin from the curb.  Crack, the screen on my Samsung Galaxy S4 was broken.  I really liked that phone and it was my second phone with the Android operating system so I was comfortable with it.  But, when I went to buy a new phone I was drawn to getting an iPhone 6.  Seems like a lot of the engineers at work had them.  I have had an iPad since 2011 and always marveled at what a cool thing it was.  So, just on a whim I decided to go with the iPhone 6. 
