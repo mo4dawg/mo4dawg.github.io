@@ -9,7 +9,7 @@ permalink: /tags/
     <a href="#{{ tag | first | slugize }}">
       {{ tag | first }}
     </a>
-    <style="font-size:20px"> "{{ tag | last | size }}" articles </style>
+    <span style="font-size:20px"> "{{ tag | last | size }}" articles </span>
   </li>
 {% endfor %}
 </ul>
