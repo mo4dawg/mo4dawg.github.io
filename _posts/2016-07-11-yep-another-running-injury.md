@@ -2,6 +2,9 @@
 layout: post
 title: Another Running Injury
 date: 2016-07-11
+tags:
+- running
+published: true
 ---
 Well, I've done it again, another set of running injuries.  I have in recent years developed a pattern of spurious soft tissue injuries whenever I put in a good effort.  This time around I was more careful so as a result I made it most of the past year injury free.  My symptoms are a series of nagging issues particularly with my left leg.  With running injuries I always ask myself what is the source?  Why did the injury occur now? 
 
