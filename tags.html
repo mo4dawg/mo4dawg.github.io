@@ -22,10 +22,10 @@ permalink: /tags/
     <a name="{{ tag_name | slugize }}"></a>
     <table style="width:60%">
       {% for post in site.tags[tag_name] %}
-        <tr>
+        <tr valign=top>
         <article class="archive-item">
-            <td style="width:30%"><font size = "4"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></font></td>
-            <td><font size = "4">{{post.date|date_to_string }}</font></td>
+            <td background-color:"DCEEF8" style="width:30%"><font size = "4"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></font></td>
+            <td background-color:"DCEEF8"><font size = "4">{{post.date|date_to_string }}</font></td>
          </article>
         </tr>
       {% endfor %}
