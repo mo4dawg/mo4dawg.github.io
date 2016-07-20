@@ -2,6 +2,9 @@
 layout: post 
 title: "This Really Happened" 
 date: 2016-05-23 
+tags:
+- living
+published: true
 --- 
  
 We've all heard or been a part of a few nightmare travel experiences.  I just had one that you would expect in a third world country with some local fly by night organization with shady undertones.  But no, this was in the good old USA involving companies you know of. Maybe you even like these companies.  I don't. 
