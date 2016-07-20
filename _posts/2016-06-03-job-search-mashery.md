@@ -2,6 +2,9 @@
 layout: post
 title: "Job Search Mashery"
 date: 2016-06-03
+tags:
+- career
+published: true
 ---
 No, I'm not talking about Tibco Mashery.  I'm referring to all the weird things we endure as we search for a job.  In an era of identity theft we put our information out there in a lot of places.  Then we have to deal with all the scummy companies that see an opportunity and prey on the unemployed, seeking to appeal to their plight.  And also the spam mail and cold calls.  Most all of these are worthless.
 I started the process being somewhat methodical and careful but over the past 11 weeks I have put my information in countless repositories.  Then there is this website.  They call it branding.  Really?  I'm not a blogger so I won't post here often, but I'm pretty tired of having my info out there.  When I have reached my goal I'll probably take down this website too.  I'll keep the domain name though.  At least I own my name!
