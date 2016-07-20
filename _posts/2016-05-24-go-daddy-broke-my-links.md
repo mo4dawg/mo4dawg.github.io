@@ -2,6 +2,9 @@
 layout: post
 title: "Go To Go Daddy And Buy Your Domain Name"
 date: 2016-05-24
+tags:
+- career
+published: true
 ---
 
 So I bought my domain name today.  It's good to own your name on the internet these days.  I was surprised to find kevinjconnell.com still available.  It was also cheap!  Below is the link where you can check if your name or some form of your name is available.  If .com is not available then .net or some hyphenation of your name would be good.
