@@ -2,6 +2,9 @@
 layout: post
 title: "I Ran a Full Half Marathon Monday"
 date: 2016-06-16
+tags:
+- running
+published: true
 ---
 
 This employment interlude which started mid March has been a boon for my running.  I'm not officially training for a specific run, but I have been increasing my distance and working on my pace.  A side benefit is I've lost a few of those midlife pounds I put on.   My weight has consistently stayed in the 179-182 range in May and June after being about 195 around Christmas.  
