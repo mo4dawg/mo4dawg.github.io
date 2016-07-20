@@ -2,6 +2,9 @@
 layout: post
 title: "Take Some Time Off, You Need It"
 date: 2016-06-13
+tags:
+- career
+published: true
 ---
 We all take time off, but these days there is a never ending stream of inputs. It's really hard to have downtime or "me" time.  Work email and kids or family are always there. And those long lost friends.  What are they up to?  Having just spent a couple months with real downtime I have had a lot of insight into things I perhaps should have been doing.  If you have been spending your work days primarily getting the job done or the project out but have not been finding time to work on self improvement then you need to adjust your priorities.
 
