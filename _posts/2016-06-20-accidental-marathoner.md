@@ -2,6 +2,9 @@
 layout: post
 title: "I'm an Accidental Half Marathoner"
 date: 2016-06-20
+tags:
+- running
+published: true
 ---
 I'm pretty happy with my Seattle Rock 'n Roll Marathon.  I did not decide to run the race until Friday morning because I had thought the race was some future date in July.  That shows how little I was paying attention to the upcoming events.  But what I was doing was training, so I was actually fully prepared for the run on Saturday.   
  
