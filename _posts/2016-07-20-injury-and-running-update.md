@@ -2,6 +2,9 @@
 layout: post
 title: Injury and Running Update
 date: 2016-07-20
+tags:
+- running
+published: true
 ---
 A quick running and injury update.  I have improved greatly since my last post on July 11.  I admit to not being too patient and feel lucky since I did not back off totally.  I put in a few extra rest days and I have yet to run much over 6.5 miles, meaning I have also avoided running into the Edmonds bowl and back out.  Last week was difficult and painful.  IT bands, shins; you name it.  Yesterday I ran 6.5 miles at a decent pace without pain! 
 
