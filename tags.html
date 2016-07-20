@@ -5,11 +5,11 @@ permalink: /tags/
 
 <ul class="tag-cloud">
 {% for tag in site.tags %}
-  <li style="font-size:20px">
+  <li style="font-size:28px">
     <a href="#{{ tag | first | slugize }}">
       {{ tag | first }}
     </a>
-   " {{ site.tags[tag_name] | size }}"
+    {{ tag | last | size }} posts
   </li>
 {% endfor %}
 </ul>
