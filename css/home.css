@@ -1,0 +1,103 @@
+
+.MyZoomClass
+{
+    zoom: 1.2; 
+    -moz-transform: scale(1.2);     
+}
+
+.MyTopClass {
+    border-top:thin solid;
+    border-color:black;
+}
+
+.MyBottomClass {
+    border-bottom:thin solid;
+    border-color:black;
+}
+
+.MyLeftClass {
+    border-left:thin solid;
+    border-color:black;
+}
+
+.MyRightClass {
+    border-right:thin solid;
+    border-color:black;
+}
+
+body {
+    margin: 60px auto;
+    width: 100%;
+}
+
+nav ul, footer ul {
+    font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #44F;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 2.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    font-size: 1.5em;
+    line-height: 1.4em;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #DDD; 
+}
+table, th , td {
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+footer {
+    border-top: 2px solid #4444FF;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+// for tag cloud and archives
+.tag-cloud {
+  list-style: none;
+  padding: 5px;
+  text-align: justify; 
+  font-size: 16px;
+}
+#archives {
+  padding: 5px;
+}
+.archive-group {
+  margin: 5px;
+  border-top: 1px solid #ddd;
+}
+.archive-item {
+  margin-left: 5px;
+}
+.post-tags {
+  text-align: left;
+  font-size: 20px;
+}
