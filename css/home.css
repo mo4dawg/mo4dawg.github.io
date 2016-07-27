@@ -59,7 +59,7 @@ h2 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #DDD; 
+    color: #444; 
 }
 table, th , td {
     border-collapse: collapse;
@@ -67,7 +67,7 @@ table, th , td {
 }
 
 footer {
-    border-top: 2px solid #4444FF;
+    border-top: 2px solid #444499;
     font-size: .8em;
 }
 
@@ -80,24 +80,3 @@ ul.posts li {
     list-style: none;
 }
 
-// for tag cloud and archives
-.tag-cloud {
-  list-style: none;
-  padding: 5px;
-  text-align: justify; 
-  font-size: 16px;
-}
-#archives {
-  padding: 5px;
-}
-.archive-group {
-  margin: 5px;
-  border-top: 1px solid #ddd;
-}
-.archive-item {
-  margin-left: 5px;
-}
-.post-tags {
-  text-align: left;
-  font-size: 20px;
-}
