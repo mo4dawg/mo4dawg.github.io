@@ -1,6 +1,10 @@
 ---
-layout post
-date 2016-07-27
+layout: post
+title: Running Pains
+date: 2016-07-27
+tags:
+- running
+published: true
 ---
 My last post titled "Injury and Running Update" has turned out to be a lark.  My legs remain in a terrible state.  Last night we set off to run our short loop which is 3.8 miles but I ended up walking about 50% of it.  I have barely run/walked since the post last week.  My IT bands seem to be the worst part but I also get sharp pains and twinges in my knees and thighs when I run.  I'm wondering if this is a secondary problem related to diet.  We eat healthy well balanced meals but perhaps I'm missing some key supplement.   I don't take a multi-vitamin so there-in I have something to try.   
  
