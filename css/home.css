@@ -55,11 +55,13 @@ h1 {
 h2 {
     font-size: 1.9em;
     line-height: 1.4em;
+    font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 p {
     font-size: 1.8em;
     line-height: 1.6em;
     color: #333333; 
+    font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 table, th , td {
     border-collapse: collapse;
