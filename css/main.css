@@ -88,6 +88,11 @@ p {
     line-height: 1.4em;
     color: #333; 
 }
+ul ui{
+    font-family:'Arial', sans-serif;
+    font-size: 1.4em;
+    line-height: 1.3em;
+}
 table, th , td {
     border-collapse: collapse;
     padding: 5px;
