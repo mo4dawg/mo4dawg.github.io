@@ -14,9 +14,9 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.20, rgb(220,230,240)),
-        color-stop(0.54, rgb(234,2240,248)),
-        color-stop(0.82, rgb(243,249,255))
+        color-stop(0.20, rgb(233,238,244)),
+        color-stop(0.54, rgb(239,242,248)),
+        color-stop(0.82, rgb(244,248,252))
     );   
 }
 .MyThickLineClass
