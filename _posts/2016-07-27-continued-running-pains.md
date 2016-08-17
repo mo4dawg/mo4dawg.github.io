@@ -14,4 +14,4 @@ I'm concerned I am already getting out of shape.  &nbsp; I have not done a long 
  
 My plan is simple.  &nbsp; I'm going to try the rolling pin for my IT bands and I'm going to take a multi-vitamin.  &nbsp; Beyond that it is just going to take some time.
 
---Update: After a few more short runs with pain I was feeling pretty good so on July 30 I ran 10.16 miles and on August 3 I ran 6.21 miles.  &nbsp; But this led to another week of pain.  &nbsp; On August 9 I ran 11.2 miles at a 9:21 pace but was unable to run for a week. &nbsp; I did 5 miles with pain yesterday and was up at night with pain even while lying down.  &nbsp; I'm concerned it is a left tibia stress fracture.--
+*Update August 17: After a few more short runs with pain I was feeling pretty good so on July 30 I ran 10.16 miles and on August 3 I ran 6.21 miles.  &nbsp; But this led to another week of pain.  &nbsp; On August 9 I ran 11.2 miles at a 9:21 pace but was unable to run for a week. &nbsp; I did 5 miles with pain yesterday and was up at night with pain even while lying down.  &nbsp; I'm concerned it is a left tibia stress fracture.*
