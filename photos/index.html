@@ -8,11 +8,12 @@ title: Photos by Kevin Connell
 	var flag = true;
 	function resize($a) {
 		if(flag) {
-			document.getElementById($a).style.width = "100%";
-			document.getElementById($a).style.height = "100%";
+			document.getElementById($a).style.width = "448";
+			document.getElementById($a).style.height = "336";
+			document.getElementById($a).style.zIndex = "-1";
 		} else {
-			document.getElementById($a).style.width = "125%";
-			document.getElementById($a).style.height = "125%";
+			document.getElementById($a).style.width = "560";
+			document.getElementById($a).style.height = "420";
 			document.getElementById($a).style.zIndex = "1";
 		}
 		(flag)?flag=false:flag=true;
