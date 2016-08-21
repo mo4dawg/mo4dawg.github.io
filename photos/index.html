@@ -20,20 +20,20 @@ title: Photos by Kevin Connell
 	}
 	
 	// click the image for even larger scale
-	var flag = false;
+	var flag = true;
 	function resize($a) 
 	{
 		if(flag) 
-		{
-			document.getElementById($a).style.width = "448px";
-			document.getElementById($a).style.height = "336px";
-		} 
-		else 
+	//	{
+	//		document.getElementById($a).style.width = "448px";
+	//		document.getElementById($a).style.height = "336px";
+	//	} 
+	//	else 
 		{
 			document.getElementById($a).style.width = "784px";
 			document.getElementById($a).style.height = "588px";
 		}
-		(flag)?flag=false:flag=true;
+	//	(flag)?flag=false:flag=true;
 	} 
 	//-->
 	</script>
