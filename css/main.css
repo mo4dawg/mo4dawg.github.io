@@ -14,8 +14,8 @@
         linear,
         left bottom,
         right top,
-        color-stop(0.20, rgb(242,246,249)),
-        color-stop(0.54, rgb(245,248,252)),
+        color-stop(0.20, rgb(243,246,249)),
+        color-stop(0.54, rgb(246,249,252)),
         color-stop(0.82, rgb(249,252,255))
     );   
 }
