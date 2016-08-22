@@ -4,11 +4,11 @@
     height:100%;
     margin: 30px auto;
     width: 85%;
-    background-image: linear-gradient(bottom, rgb(233,238,244) 20%, rgb(239,242,248) 54%, rgb(244,248,252) 82%);
-    background-image: -o-linear-gradient(bottom, rgb(233,238,244) 20%, rgb(239,242,248) 54%, rgb(244,248,252) 82%);
-    background-image: -moz-linear-gradient(bottom, rgb(233,238,244) 20%, rgb(239,242,248) 54%, rgb(244,248,252) 82%);
-    background-image: -webkit-linear-gradient(bottom, rgb(233,238,244) 20%, rgb(239,242,248) 54%, rgb(244,248,252) 82%);
-    background-image: -ms-linear-gradient(bottom, rgb(233,238,244) 20%, rgb(239,242,248) 54%, rgb(244,248,252) 82%);
+    background-image: linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
+    background-image: -o-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
+    background-image: -moz-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
+    background-image: -webkit-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
+    background-image: -ms-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
 
     background-image: -webkit-gradient(
         linear,
