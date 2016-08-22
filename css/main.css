@@ -97,10 +97,10 @@ table, th , td {
     padding: 5px;
 }
 table tr:nth-child(odd) {
-    background-color: #eef8ff;
+    background-color: #f6fbff;
 }
 table tr:nth-child(even) {
-    background-color: #eef8ff;
+    background-color: #f6fbff;
 }
 footer {
     border-top: 2px solid #444499;
