@@ -10,7 +10,7 @@ I haven't posted for a while.  &nbsp; Basically nothing compelling has happened 
 
 We decided to do this Saturday, July 2.  &nbsp; Considering that's smack in the middle of the Independence Day holiday weekend I was pleasantly surprised to find the traffic good and the parking area only mostly full.  &nbsp; The weather was low sixties with broken clouds, perfect for a day hike.  &nbsp;  We had the two big dogs, Jack and Bear, with us and they carried their own food and water.  &nbsp; In fact, they carried the human food too. :-) 
 
-![Jack and Bear](https://cloud.githubusercontent.com/assets/19477681/17874956/bbefbf34-6883-11e6-88e0-d37a1c49f9e6.jpg)*Jack and Bear on the hike*
+![Jack and Bear](https://cloud.githubusercontent.com/assets/19477681/17874956/bbefbf34-6883-11e6-88e0-d37a1c49f9e6.jpg)*Bear and Jack on the hike*
 
 The hike has a decent ascent rate but since we are in pretty good running shape it wasn't difficult.  we made the summit in about 90 minutes.  So even though we left the house after 9:00, stopped at Starbucks, drove most of the way to Stevens Pass, and 6.5 miles up a dirt road, we were on the summit at noon.  That was pretty good.  The dogs did very well going up.  I was impressed that Jack, who has nicknames that includes "1 mile Jack" did so well.  But at the summit you could see the exhaustion. 
 
