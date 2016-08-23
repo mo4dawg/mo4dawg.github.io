@@ -1,11 +1,36 @@
 ---
 layout: default
 title: Kevin Connell's Blog
+permalink: /tags/
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+<ul class="tag-cloud">
+{% for tag in site.tags %}
+  <li style="font-size:28px">
+    <a href="#{{ tag | first | slugize }}">
+      {{ tag | first }}
+    </a>
+    <font size = "3"> {{ tag | last | size }} stories </font>
+  </li>
+{% endfor %}
+</ul>
+
+<div id="archives">
+{% for tag in site.tags %}
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <h3 id="#{{ tag_name | slugize }}">{{ tag_name }}</h3>
+    <a name="{{ tag_name | slugize }}"></a>
+    <table style="width:40%">
+      {% for post in site.tags[tag_name] %}
+        <tr>
+        <article class="archive-item">
+            <td style="width:70%"><font size = "4"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></font></td>
+            <td ><font size = "4">{{post.date|date_to_string }}</font></td>
+         </article>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+{% endfor %}
+</div>
