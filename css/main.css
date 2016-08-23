@@ -89,7 +89,7 @@ h3 {
 p {
     font-family:'Roboto', 'Arial', sans-serif;
     font-size: 1.4em;
-    line-height: 1.4em;
+    line-height: 1.3em;
     color: #333; 
 }
 body ul{
@@ -114,8 +114,8 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-family:'Roboto', 'Arial', sans-serif;
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.4em;
+    line-height: 1.3em;
 }
 
 ul.posts li {
