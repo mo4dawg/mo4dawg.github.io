@@ -5,6 +5,8 @@ title: Photos by Kevin Connell
 <div class="blurb">
 	<script type="text/javascript">
 	<!--
+	var flag = true;
+	
 	// on mouseover make the image large 
 	function large($a)
 	{
@@ -17,23 +19,23 @@ title: Photos by Kevin Connell
 	{
 		document.getElementById($a).style.width = "448px";
 		document.getElementById($a).style.height = "336px";
+		flag = false;
 	}
 	
 	// click the image for even larger scale
-	var flag = true;
 	function resize($a) 
 	{
 		if(flag) 
-	//	{
-	//		document.getElementById($a).style.width = "448px";
-	//		document.getElementById($a).style.height = "336px";
-	//	} 
-	//	else 
+		{
+			document.getElementById($a).style.width = "448px";
+			document.getElementById($a).style.height = "336px";
+		} 
+		else 
 		{
 			document.getElementById($a).style.width = "784px";
 			document.getElementById($a).style.height = "588px";
 		}
-	//	(flag)?flag=false:flag=true;
+		(flag)?flag=false:flag=true;
 	} 
 	
 	function vResize($a) 
@@ -46,6 +48,7 @@ title: Photos by Kevin Connell
 	{
 		document.getElementById($a).style.width = "336px";
 		document.getElementById($a).style.height = "448px";
+		flag = false;
 	}
 	
 	//-->
