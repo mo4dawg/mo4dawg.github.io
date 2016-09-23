@@ -2,7 +2,7 @@
 .MyGradientClass
 {
     height:100%;
-    margin: 30px auto;
+    margin: 25px auto;
     width: 85%;
     background-image: linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
     background-image: -o-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
