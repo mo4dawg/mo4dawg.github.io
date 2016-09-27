@@ -6,7 +6,7 @@ tags:
 - running
 published: true
 ---
-Well, I've done it again, another set of running injuries.  I have in recent years developed a pattern of spurious soft tissue injuries whenever I put in a good effort.  This time around I was more careful so as a result I made it most of the past year injury free.  My symptoms are a series of nagging issues particularly with my left leg.  With running injuries I always ask myself what is the source?  Why did the injury occur now? 
+Well, I've done it again, another set of running injuries.  &nsbr; I have in recent years developed a pattern of spurious soft tissue injuries whenever I put in a good effort.  This time around I was more careful so as a result I made it most of the past year injury free.  My symptoms are a series of nagging issues particularly with my left leg.  With running injuries I always ask myself what is the source?  Why did the injury occur now? 
 
 Last year I bought a pair of Brooks running shoes that I can certainly put the blame on for my issues including a knee and Achilles tendon issues.  So I immediately dropped that pair of shoes and went back to my standby brand, Asics.  I got super lucky.  I bought a pair of Asics Gel Kayano 21 at the Nordstrom Anniversary Sale with my employee discount.  This was a great pair of shoes.  So after my half marathon a couple weeks ago I knew it was time for them to be retired.  But now Asics had replaced them with the next iteration, Gel Kayano 22.  Ugh, why do they do that?  But a quick Google search found the 21s!  I was able to get them through Amazon from a store in Texas.  The price was good and I was pumped to get them. 
 
