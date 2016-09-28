@@ -36,6 +36,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+    /* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
 nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
