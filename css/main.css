@@ -72,6 +72,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #289;
 }
 h1 {
     font-size: 2.3em;
@@ -108,6 +109,7 @@ table tr:nth-child(even) {
 footer {
     border-top: 2px solid #444499;
     font-size: .8em;
+    color: #289;
 }
 
 ul.posts { 
