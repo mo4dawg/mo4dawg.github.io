@@ -12,3 +12,5 @@ After cutting back on my running and a couple doctor visists I'm doing much bett
 The doctor visits were to get to the bottom of my lower leg pain.  &nbsp;In the end nothing specific but we were able to rule out deep vein thrombosis (blood clots in the legs).  &nbsp;Phew!  &nbsp;That can cause pulmonary embolisms or strokes.  &nbsp;I had an ultrasound of my veins and they were clear.  It was fun to do because since I used to develop ultrasound machines at Siemens I was able to talk shop with the sonographer.  &nbsp;This was a GE machine, but the modes and controls are pretty much the same.
 
 So I'm happy to be back on track. :)
+
+*September 27 Update: I ran 3 days in a row Satuday Sep 24 - Monday Sep 26.  Monday was 10.7 miles and I'm happy to say I'm still doing well.  Legs are fine!*
