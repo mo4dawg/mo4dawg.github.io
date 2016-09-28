@@ -60,10 +60,9 @@ nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
     list-style: none;
-    color: #289;
     background-color: #ef7788;
     font-size: 1.5em;
-    line-height: 1.8em;
+    line-height: 2.0em;
     font-weight: bold;
 }
 nav ul li, footer ul li {
@@ -112,7 +111,7 @@ table tr:nth-child(even) {
 footer {
     border-top: 2px solid #444499;
     font-size: .8em;
-    color: #289;
+    color: #224455;
 }
 
 ul.posts { 
