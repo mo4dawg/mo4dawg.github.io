@@ -26,7 +26,7 @@
 }
 
 body {
-    margin: 60px auto;
+    // margin: 60px auto;
     width: 100%;
 }
 
@@ -34,7 +34,7 @@ nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
     list-style: none;
-    color: #289;
+    color: #267;
     background-color: #ef7788;
     font-size: 1.5em;
     line-height: 1.8em;
