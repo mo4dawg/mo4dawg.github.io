@@ -13,4 +13,4 @@ The doctor visits were to get to the bottom of my lower leg pain.  &nbsp;In the 
 
 So I'm happy to be back on track. :)
 
-*September 27 Update: I ran 3 days in a row Satuday Sep 24 - Monday Sep 26.  Monday was 10.7 miles and I'm happy to say I'm still doing well.  Legs are fine!*
+*September 27 Update: I ran 3 days in a row Satuday Sep 24 - Monday Sep 26.  &nbsp;Monday was 10.7 miles and I'm happy to say I'm still doing well.  &nbsp;Legs are fine!*
