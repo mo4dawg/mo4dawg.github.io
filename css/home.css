@@ -29,7 +29,13 @@ body {
     // margin: 60px auto;
     width: 100%;
 }
-
+a {
+    text-decoration: none;
+    color: #289;
+}
+a:hover {
+    text-decoration: underline;
+}
 nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
@@ -44,13 +50,7 @@ nav ul li, footer ul li {
     color: #154;
     margin-right: 20px;
 }
-a {
-    text-decoration: none;
-    color: #289;
-}
-a:hover {
-    text-decoration: underline;
-}
+
 h1 {
     font-size: 2.5em;
     font-family:'Roboto', 'Arial', 'Sans-Serif';
