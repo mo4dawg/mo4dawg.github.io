@@ -4,19 +4,19 @@
     height:100%;
     margin: 25px auto;
     width: 85%;
-    background-image: linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
-    background-image: -o-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
-    background-image: -moz-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
-    background-image: -webkit-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
-    background-image: -ms-linear-gradient(bottom, rgb(243,246,249) 20%, rgb(246,249,252) 54%, rgb(249,252,255) 82%);
+    background-image: linear-gradient(bottom, rgb(247,249,251) 20%, rgb(249,251,253) 54%, rgb(251,253,255) 82%);
+    background-image: -o-linear-gradient(bottom, rgb(247,249,251) 20%, rgb(249,251,253) 54%, rgb(251,253,255) 82%);
+    background-image: -moz-linear-gradient(bottom, rgb(247,249,251) 20%, rgb(249,251,253) 54%, rgb(251,253,255) 82%);
+    background-image: -webkit-linear-gradient(bottom, rgb(247,249,251) 20%, rgb(249,251,253) 54%, rgb(251,253,255) 82%);
+    background-image: -ms-linear-gradient(bottom, rgb(247,249,251) 20%, rgb(249,251,253) 54%, rgb(251,253,255) 82%);
 
     background-image: -webkit-gradient(
         linear,
         left bottom,
         right top,
-        color-stop(0.20, rgb(243,246,249)),
-        color-stop(0.54, rgb(246,249,252)),
-        color-stop(0.82, rgb(249,252,255))
+        color-stop(0.20, rgb(247,249,251)),
+        color-stop(0.54, rgb(249,251,253)),
+        color-stop(0.82, rgb(251,253,255))
     );   
 }
 .MyThickLineClass
@@ -69,7 +69,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #229;
+    color: #289;
 }
 a:hover {
     text-decoration: underline;
