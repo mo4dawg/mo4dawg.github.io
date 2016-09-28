@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm an Accidental Half Marathoner"
+title: "I'm an Official Half Marathoner!"
 date: 2016-06-20
 tags:
 - running
