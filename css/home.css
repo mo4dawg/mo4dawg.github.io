@@ -34,7 +34,6 @@ nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
     list-style: none;
-    color: #267;
     background-color: #ef7788;
     font-size: 1.5em;
     line-height: 1.8em;
@@ -42,6 +41,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
+    color: #154;
     margin-right: 20px;
 }
 a {
