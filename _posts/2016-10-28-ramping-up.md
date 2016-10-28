@@ -16,10 +16,10 @@ However, I’m still not at the level I was in June, but I’m close.  &nbsp; Th
 |                                                             Route                                                             |                                                                                                                                   |
 |:-----------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Training Route](https://cloud.githubusercontent.com/assets/19477681/19814033/6c608c76-9cf1-11e6-9c0c-956566797f1e.jpg)      |        ![Training Splits](https://cloud.githubusercontent.com/assets/19477681/19814074/95ca9b42-9cf1-11e6-964e-2200c96d6695.jpg)  |
-|                                                        *Training Route*                                                       |                                                         *Training Splits*                                                         |
+|                                                       ##*Training Route*                                                      |                                                        ##*Training Splits*                                                        |
 |                                                                                                                               |                                                                                                                                   |
 | ![Half Marathon Route](https://cloud.githubusercontent.com/assets/19477681/19814061/8724a4d4-9cf1-11e6-9c38-cad2fb9a5ab0.jpg) |    ![Half Marathon Splits](https://cloud.githubusercontent.com/assets/19477681/19814084/a215dbf0-9cf1-11e6-8f5c-2d8c2bc40661.jpg) |
-|                                                     *Half Marathon Route*                                                     |                                                       *Half Marathon Splits*                                                      |
+|                                                    ##*Half Marathon Route*                                                    |                                                      ##*Half Marathon Splits*                                                     |
 
 
 &nbsp;
