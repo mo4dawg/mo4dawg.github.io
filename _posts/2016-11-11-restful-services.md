@@ -39,10 +39,14 @@ Clients deliver state via body contents, query-string parameters, request header
 The uniform interface constraint defines the interface between clients and servers. &nbsp; It simplifies and decouples the architecture, which enables each part to evolve independently. 
 
 Most organizations use the HTTP protocol with its well defined API although HTTP in itself is not a constraint. &nbsp;  For CRUD operations: 
-  **POST** – use for Create.  &nbsp; Post is neither safe nor idempotent.  &nbsp; Posting the same information twice will likely result in two of the same resources being created. 
-  **GET** – used for Read operations. &nbsp;  This operation is both safe and idempotent 
-  **PUT** – used for Update. &nbsp;  PUT is safe in that if you update an item twice with the same information there is no change.  &nbsp; So if you update a resource from a value of 3 to 4 twice the result is one resource with its value being 4. &nbsp;  However if you were to POST a resource that has a value 3 twice with a value of 4 you will update the resource to 4 but also create a new resource with a value of 4. 
-  **DELETE** - is just that.  &nbsp; It is safe in that you can call DELETE on a resource more than once without impact.  &nbsp; You would get an HTTP response 200 (OK) on the first call and a response 404 (not found) on the second call. 
+
+ &nbsp; &nbsp;  **POST** – use for Create.  &nbsp; Post is neither safe nor idempotent.  &nbsp; Posting the same information twice will likely result in two of the same resources being created. 
+  
+ &nbsp; &nbsp;  **GET** – used for Read operations. &nbsp;  This operation is both safe and idempotent 
+  
+ &nbsp; &nbsp;  **PUT** – used for Update. &nbsp;  PUT is safe in that if you update an item twice with the same information there is no change.  &nbsp; So if you update a resource from a value of 3 to 4 twice the result is one resource with its value being 4. &nbsp;  However if you were to POST a resource that has a value 3 twice with a value of 4 you will update the resource to 4 but also create a new resource with a value of 4. 
+  
+  &nbsp; &nbsp; **DELETE** - is just that.  &nbsp; It is safe in that you can call DELETE on a resource more than once without impact.  &nbsp; You would get an HTTP response 200 (OK) on the first call and a response 404 (not found) on the second call. 
   
 **2.   Stateless**
 
