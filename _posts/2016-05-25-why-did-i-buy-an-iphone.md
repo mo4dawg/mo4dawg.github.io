@@ -3,7 +3,6 @@ layout: post
 title: "Why Did I Buy an iPhone?"
 date: 2016-05-25
 tags:
-- iPhone
 - living
 published: true
 ---
