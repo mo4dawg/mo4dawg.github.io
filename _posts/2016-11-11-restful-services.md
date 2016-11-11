@@ -58,7 +58,7 @@ State, or application state, is that which the server cares about to fulfill a r
 
 **3.   Cacheable**
 
-As on the World Wide Web, clients can cache responses. &nbsp; Responses must therefore, implicitly or explicitly, define themselves as cacheable, or not, to prevent clients reusing stale or inappropriate data in response to further requests. &nbsp; Well-managed caching partially or completely eliminates some client–server interactions, further improving scalability and performance.
+Clients can cache responses. &nbsp; Responses must therefore, implicitly or explicitly, define themselves as cacheable, or not, to prevent clients reusing stale or inappropriate data in response to further requests. &nbsp; Well-managed caching partially or completely eliminates some client–server interactions, further improving scalability and performance.
 
 **4.    Client-Server**
 
