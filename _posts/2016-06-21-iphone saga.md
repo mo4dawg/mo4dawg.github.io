@@ -3,7 +3,6 @@ layout: post
 title: "Follow up to my iPhone Saga"
 date: 2016-06-21
 tags:
-- iPhone
 - living
 published: true
 ---
