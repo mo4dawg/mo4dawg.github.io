@@ -70,7 +70,7 @@ Other HTTP methods:
 
  &nbsp; &nbsp;**OPTIONS** - is safe and idempotent. &nbsp; This method is seldom used but could provide information of what methods are authorized on the resource.
 
- &nbsp; &nbsp;**PATCH** - Is neither safe nor idempotent.   &nbsp;PATCH can be used to update partial resources. &nbsp; For instance, when you only need to update one field of the resource, PUTting a complete resource representation might be cumbersome and utilizes more bandwidth.
+ &nbsp; &nbsp;**PATCH** - Is neither safe nor idempotent.   &nbsp;PATCH can be used to update partial resources using a set of instructions. &nbsp; For instance, when you only need to update one field of the resource, PUTting a complete resource representation might be cumbersome and utilizes more bandwidth.
   
 **2.   Stateless**
 
