@@ -42,7 +42,7 @@ Clients deliver state via body contents, query-string parameters, request header
 
 **Idempotent** &nbsp;&nbsp;An idempotent HTTP method is a HTTP method that can be called many times without different outcomes.&nbsp; It would not matter if the method is called only once, or ten times over.&nbsp; The result should be the same. &nbsp;This only applies to the result, not the resource itself.&nbsp; This still can be manipulated (like an update-timestamp, provided this information is not shared in the (current) resource representation.
 
-The key thing to understand is that POST is not idempotent but PUT is.  &nbsp;So if you call PUT with the same arguments the result is always the same. &nbsp; For POST this is not guarenteed. &nbsp; Here is an important consideration and why you shoule reserve POST to the Create operation: 
+The key thing to understand is that POST is not idempotent but PUT is.  &nbsp;So if you call PUT with the same arguments the result is always the same. &nbsp; For POST this is not guarenteed. &nbsp; Here is an important consideration and why you should reserve POST to the Create operation: 
 
 What would happen if you sent out the POST request to the server, but you get a timeout.&nbsp; Is the resource actually updated?&nbsp; Does the timeout happened during sending the request to the server, or the response to the client ?&nbsp; Can we safely retry again, or do we need to figure out first what has happened with the resource? &nbsp; By using idempotent methods, we do not have to answer this question, but we can safely resend the request until we actually get a response back from the server.
 
