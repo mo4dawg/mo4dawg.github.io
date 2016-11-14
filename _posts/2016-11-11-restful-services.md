@@ -16,7 +16,7 @@ REST is an amazingly simplified way of approaching service oriented architecture
 
 **Resource-Based** 
 
-Individual resources are identified in requests using URIs as resource identifiers.  &nbsp;REST is resource based vs action based or noun based vs verb based.  SOAP tends to have operations that are verb based methods. 
+Individual resources are identified in requests using URIs as resource identifiers.  &nbsp;REST is resource based vs action based or, noun based vs verb based.  &nbsp;SOAP tends to have operations that are verb based methods. 
 
 An important aspect of resource based URIs is the notion of a collection vs a record.  &nbsp; A collection should be expressed as a plural.
 
@@ -87,6 +87,8 @@ Clients can cache responses. &nbsp; Responses must therefore, implicitly or expl
 **4.    Client-Server**
 
 The uniform interface separates clients from servers. &nbsp; This separation of concerns means that, for example, clients are not concerned with data storage, which remains internal to each server, so that the portability of client code is improved.  &nbsp;Servers are not concerned with the user interface or user state, so that servers can be simpler and more scalable. &nbsp; Servers and clients may also be replaced and developed independently, as long as the interface is not altered.
+
+JSON responses are preferred for modern clients however on legacy systems XML may be required in which case having both JSON and XML responses is required.
 
 **5.   Layered System** 
 
