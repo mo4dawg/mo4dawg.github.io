@@ -62,15 +62,15 @@ Most organizations use the HTTP protocol with its well defined API although HTTP
   
  &nbsp; &nbsp;  **PUT** – used for Update. &nbsp;Since PUT updates it by definition is not Safe. &nbsp;  PUT is idempotent in that if you update an item twice with the same information there is no change.  &nbsp; So if you update a resource from a value of 3 to 4 twice the result is one resource with its value being 4. &nbsp;  However if you were to POST a resource that has a value 3 twice with a value of 4 you will update the resource to 4 but also create a new resource with a value of 4. 
   
-  &nbsp; &nbsp; **DELETE** - is just that.  &nbsp; It is idempotent in that you can call DELETE on a resource more than once without impact.  &nbsp; You would get an HTTP response 200 (OK) on the first call and a response 404 (not found) on the second call. 
+ &nbsp; &nbsp; **DELETE** - is just that.  &nbsp; It is idempotent in that you can call DELETE on a resource more than once without impact.  &nbsp; You would get an HTTP response 200 (OK) on the first call and a response 404 (not found) on the second call. 
   
 Other HTTP methods:
 
-&nbsp; &nbsp;**HEAD** - is safe and idempotent and is a good lightweight call to make to see if a resource exists because it does not return the overhead of a full HTTP response - just a 200 (OK) or 404 (Not Found).
+ &nbsp; &nbsp;**HEAD** - is safe and idempotent and is a good lightweight call to make to see if a resource exists because it does not return the overhead of a full HTTP response - just a 200 (OK) or 404 (Not Found).
 
-&nbsp; &nbsp;**OPTIONS** - is safe and idempotent. &nbsp; This method is seldom used but could provide information of what methods are authorized on the resource.
+ &nbsp; &nbsp;**OPTIONS** - is safe and idempotent. &nbsp; This method is seldom used but could provide information of what methods are authorized on the resource.
 
-nbsp; &nbsp;**PATCH** - Is neither safe nor idempotent.   &nbsp;PATCH can be used to update partial resources. &nbsp; For instance, when you only need to update one field of the resource, PUTting a complete resource representation might be cumbersome and utilizes more bandwidth.
+ &nbsp; &nbsp;**PATCH** - Is neither safe nor idempotent.   &nbsp;PATCH can be used to update partial resources. &nbsp; For instance, when you only need to update one field of the resource, PUTting a complete resource representation might be cumbersome and utilizes more bandwidth.
   
 **2.   Stateless**
 
