@@ -46,7 +46,7 @@ The key thing to understand is that POST is not idempotent but PUT is.  &nbsp;So
 
 What would happen if you sent out the POST request to the server, but you get a timeout.&nbsp; Is the resource actually updated?&nbsp; Does the timeout happened during sending the request to the server, or the response to the client ?&nbsp; Can we safely retry again, or do we need to figure out first what has happened with the resource? &nbsp; By using idempotent methods, we do not have to answer this question, but we can safely resend the request until we actually get a response back from the server.
 
-A good way to look at idempotency is to take these two operations:&nbsp; *x = 4;*  &nbsp;  This is idempotent because x will always be 4 no matter how many ties it is called. &nbsp; But consider *i++*. &nbsp;  This will increment every call so by definiton is not idempotent.
+A good way to look at idempotency is to take these two operations:&nbsp; *x = 4;*  &nbsp;  This is idempotent because x will always be 4 no matter how many times it is called. &nbsp; But consider *i++*. &nbsp;  This will increment every call so by definiton is not idempotent.
 
 ***The six constraints of REST are:***
 
