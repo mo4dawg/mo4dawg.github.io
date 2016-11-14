@@ -40,13 +40,13 @@ Clients deliver state via body contents, query-string parameters, request header
 
 **Safe** &nbsp;&nbsp;Safe methods are HTTP methods that do not modify resources.&nbsp; For instance, using GET or HEAD on a resource URL, should NEVER change the resource.&nbsp; However, this is not completely true.&nbsp; It means: it won't change the resource representation.&nbsp; It is still possible, that safe methods do change things on a server or resource, but this should not reflect in a different representation.
 
-**Idempotent** &nbsp;&nbsp;An idempotent HTTP method is a HTTP method that can be called many times without different outcomes.&nbsp; It would not matter if the method is called only once, or ten times over.&nbsp; The result should be the same. &nbsp;Again, this only applies to the result, not the resource itself.&nbsp; This still can be manipulated (like an update-timestamp, provided this information is not shared in the (current) resource representation.
+**Idempotent** &nbsp;&nbsp;An idempotent HTTP method is a HTTP method that can be called many times without different outcomes.&nbsp; It would not matter if the method is called only once, or ten times over.&nbsp; The result should be the same. &nbsp;This only applies to the result, not the resource itself.&nbsp; This still can be manipulated (like an update-timestamp, provided this information is not shared in the (current) resource representation.
 
-The key thing to understand is that POST is not itempotent but PUT is.  &nbsp;So if you call PUT with the same arguments the result is always the same. &nbsp; For POST this is not guarenteed. &nbsp; Here is an important consideration and why you shoule reserve POST to the Create operation: 
+The key thing to understand is that POST is not idempotent but PUT is.  &nbsp;So if you call PUT with the same arguments the result is always the same. &nbsp; For POST this is not guarenteed. &nbsp; Here is an important consideration and why you shoule reserve POST to the Create operation: 
 
 What would happen if you sent out the POST request to the server, but you get a timeout.&nbsp; Is the resource actually updated?&nbsp; Does the timeout happened during sending the request to the server, or the response to the client ?&nbsp; Can we safely retry again, or do we need to figure out first what has happened with the resource? &nbsp; By using idempotent methods, we do not have to answer this question, but we can safely resend the request until we actually get a response back from the server.
 
-A good way to look at idempotency is to tak these two operations:&nbsp; *x = 4;*  &nbsp;  This is idempotent because x will always be 4 no matter how many ties it is called. &nbsp; But consider *i++*. &nbsp;  This will increment every call so by definiton is not idempotent.
+A good way to look at idempotency is to take these two operations:&nbsp; *x = 4;*  &nbsp;  This is idempotent because x will always be 4 no matter how many ties it is called. &nbsp; But consider *i++*. &nbsp;  This will increment every call so by definiton is not idempotent.
 
 ***The six constraints of REST are:***
 
@@ -66,7 +66,7 @@ Most organizations use the HTTP protocol with its well defined API although HTTP
   
 **2.   Stateless**
 
-As REST is an acronym for REpresentational State Transfer, statelessness is key. &nbsp; Essentially, what this means is that the necessary state to handle the request is contained within the request itself, whether as part of the URI, query-string parameters, body, or headers. &nbsp; The URI uniquely identifies the resource and the body contains the state (or state change) of that resource. &nbsp; Then after the server does it's processing, the appropriate state, or the pieces of state that matter, are communicated back to the client via headers, status and response body.
+As REST is an acronym for REpresentational State Transfer, statelessness is key. &nbsp;  This means that the necessary state to handle the request is contained within the request itself, whether as part of the URI, query-string parameters, body, or headers. &nbsp; The URI uniquely identifies the resource and the body contains the state (or state change) of that resource. &nbsp; Then after the server does it's processing, the appropriate state, or the pieces of state that matter, are communicated back to the client via headers, status and response body.
 
 In REST, the client must include all information for the server to fulfill the request, resending state as necessary if that state must span multiple requests. &nbsp; Statelessness enables greater scalability since the server does not have to maintain, update or communicate that session state. &nbsp; Additionally, load balancers don't have to worry about session affinity for stateless systems. 
 
