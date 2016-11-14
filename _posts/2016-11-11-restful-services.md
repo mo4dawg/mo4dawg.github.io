@@ -6,7 +6,7 @@ tags:
 - career  
 published: true  
 --- 
-So I've been getting myself updated on REST services. &nbsp;  At Nordstrom our teams started the SOA path with SOAP but by 2013 had moved pretty much entirely to Rest except for the now legacy services.  &nbsp; I hate the fact that all the services we wrote for PBR (Our CRM tool rewrite) were SOAP but it was the timing.  &nbsp;We were learning service oriented architecture and SOAP was our go to service at the time.  &nbsp;Over the past few months I have revisited the topic several times and have seen numerous You Tube videos on Restful service development.    &nbsp;I decided to create this page simply as a go to for myself so I admit to about 60 percent plagiarism on the below.  &nbsp; However that means about 40% are my own thoughts and words. :-) 
+So I've been getting myself tuned up on Restful services. &nbsp;  At Nordstrom our teams started the SOA path with SOAP but by 2014 had moved pretty much entirely to Rest except for the now legacy services.  &nbsp; I hate the fact that all the services we wrote for PBR (Our CRM tool rewrite) were SOAP but it was the timing.  &nbsp;We were learning service oriented architecture and SOAP was our go to service at the time.  &nbsp;Over the past few months I have revisited the topic several times and have visited numerous sites on Restful service development.    &nbsp;I decided to create this page simply as a go to for myself so I admit to about 60 percent plagiarism on the below.  &nbsp; However that means about 40% are my own thoughts and words. :-) 
 
 **Primary Tenants of REST**
 
