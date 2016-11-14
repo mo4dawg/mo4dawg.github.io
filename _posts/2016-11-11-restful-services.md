@@ -39,7 +39,8 @@ Clients deliver state via body contents, query-string parameters, request header
 **Definitions of Safe and Idempotent**
 
 **Safe** &nbsp;&nbsp;Safe methods are HTTP methods that do not modify resources.&nbsp; For instance, using GET or HEAD on a resource URL, should NEVER change the resource.&nbsp; However, this is not completely true.&nbsp; It means: it won't change the resource representation.&nbsp; It is still possible, that safe methods do change things on a server or resource, but this should not reflect in a different representation.
-**Idempotent** &nbsp;;&nbsp;An idempotent HTTP method is a HTTP method that can be called many times without different outcomes.&nbsp; It would not matter if the method is called only once, or ten times over.&nbsp; The result should be the same. &nbsp;Again, this only applies to the result, not the resource itself.&nbsp; This still can be manipulated (like an update-timestamp, provided this information is not shared in the (current) resource representation.
+
+**Idempotent** &nbsp;&nbsp;An idempotent HTTP method is a HTTP method that can be called many times without different outcomes.&nbsp; It would not matter if the method is called only once, or ten times over.&nbsp; The result should be the same. &nbsp;Again, this only applies to the result, not the resource itself.&nbsp; This still can be manipulated (like an update-timestamp, provided this information is not shared in the (current) resource representation.
 
 The key thing to understand is that POST is not itempotent but PUT is.  &nbsp;So if you call PUT with the same arguments the result is always the same. &nbsp; For POST this is not guarenteed. &nbsp; Here is an important consideration and why you shoule reserve POST to the Create operation: 
 
@@ -59,7 +60,7 @@ Most organizations use the HTTP protocol with its well defined API although HTTP
   
  &nbsp; &nbsp;  **GET** – used for Read operations. &nbsp;  This operation is both safe and idempotent 
   
- &nbsp; &nbsp;  **PUT** – used for Update. &nbsp;  PUT is safe in that if you update an item twice with the same information there is no change.  &nbsp; So if you update a resource from a value of 3 to 4 twice the result is one resource with its value being 4. &nbsp;  However if you were to POST a resource that has a value 3 twice with a value of 4 you will update the resource to 4 but also create a new resource with a value of 4. 
+ &nbsp; &nbsp;  **PUT** – used for Update. &nbsp;Since PUT updates it by definition is not Safe. &nbsp;  PUT is idempotent in that if you update an item twice with the same information there is no change.  &nbsp; So if you update a resource from a value of 3 to 4 twice the result is one resource with its value being 4. &nbsp;  However if you were to POST a resource that has a value 3 twice with a value of 4 you will update the resource to 4 but also create a new resource with a value of 4. 
   
   &nbsp; &nbsp; **DELETE** - is just that.  &nbsp; It is safe in that you can call DELETE on a resource more than once without impact.  &nbsp; You would get an HTTP response 200 (OK) on the first call and a response 404 (not found) on the second call. 
   
