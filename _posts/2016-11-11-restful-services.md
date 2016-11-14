@@ -15,6 +15,7 @@ REST is short for REpresentational State Transfer.
 REST is an amazingly simplified way of approaching service oriented architecture as opposed to the maintenance of the WSDL, XSD, and version control of SOAP services. 
 
 **Resource-Based** 
+
 Individual resources are identified in requests using URIs as resource identifiers.  &nbsp;REST is resource based vs action based or noun based vs verb based.  SOAP tends to have operations that are verb based methods. 
 
 An important aspect of resource based URIs is the notion of a collection vs a record.  &nbsp; A collection should be expressed as a plural.
@@ -24,12 +25,15 @@ Collection: *GET http://www.example.com/customers*
 Record:     *GET http://www.example.com/customers/12345*
 
 **Manipulation of Resources Through Representations**
+
 When a client holds a representation of a resource, including any metadata attached, it has enough information to modify or delete the resource on the server, provided it has permission to do so.  &nbsp; By representations it is meant a representation of the application state.  &nbsp; For example, the server does not send its database, but rather some XML or JSON that represents some database records.
 
-**Self-descriptive Messages**
+**Self-descriptive Messages** 
+
 Each message includes enough information to describe how to process the message. &nbsp; Responses also explicitly indicate their cache-ability. 
 
-Hypermedia as the Engine of Application State (HATEOAS).
+**Hypermedia as the Engine of Application State (HATEOAS)** 
+
 Clients deliver state via body contents, query-string parameters, request headers and the requested URI. &nbsp; Services deliver state to clients via body content, response codes, and response headers. &nbsp; This is technically referred-to as hypermedia (or hyperlinks within hypertext). &nbsp;  HATEOS also means that, where necessary, links are contained in the returned body (or headers) to supply the URI for retrieval of the object itself or related objects.
 
 **The six constraints of REST are:**
