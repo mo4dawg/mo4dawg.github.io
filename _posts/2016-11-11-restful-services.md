@@ -14,9 +14,11 @@ REST is short for REpresentational State Transfer.
 
 REST is an amazingly simplified way of approaching service oriented architecture as opposed to the maintenance of the WSDL, XSD, and version control of SOAP services. 
 
+Restful services have six constraints which are defined below.  The closer a service follows the six constraints the more the benefits of Rest will be realized.  The benefits of Rest are in the following emergent properties: performance, scalability, simplicity, modifiability, visibility, portability and reliability. 
+
 **Resource-Based** 
 
-Individual resources are identified in requests using URIs as resource identifiers.  &nbsp;REST is resource based vs action based or, noun based vs verb based.  &nbsp;SOAP tends to have operations that are verb based methods. 
+Individual resources are identified in requests using URIs as resource identifiers.  &nbsp;REST is resource based vs action based or, noun based vs verb based.  &nbsp;SOAP tends to have operations that are verb based methods.  So the naming of the URI should be a noun.  If for example you were to create a message application a service path might be to a folder called messages and an indivdual message would have a unique identifier.  Example with Java annotation @Path("/messages/12345") or as a variable @Path("/messages/{messageid}") which resolves to: http://example.com/messages/12345.
 
 An important aspect of resource based URIs is the notion of a collection vs a record.  &nbsp; A collection should be expressed as a plural.
 
