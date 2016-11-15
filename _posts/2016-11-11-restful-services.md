@@ -76,7 +76,7 @@ Other HTTP methods:
   
 **2.   Stateless**
 
-As REST is an acronym for REpresentational State Transfer, statelessness is key. &nbsp;  This means that the necessary state to handle the request is contained within the request itself, whether as part of the URI, query-string parameters, body, or headers. &nbsp; The URI uniquely identifies the resource and the body contains the state (or state change) of that resource. &nbsp; Then after the server does it's processing, the appropriate state, or the pieces of state that matter, are communicated back to the client via headers, status and response body.
+As REST is an acronym for REpresentational State Transfer, statelessness of the server is key. &nbsp;  This means that the necessary state to handle the request is contained within the request from the client itself, whether as part of the URI, query-string parameters, body, or headers.   &nbsp; The URI uniquely identifies the resource and the body contains the state (or state change) of that resource. &nbsp; Then after the server does it's processing, the appropriate state, or the pieces of state that matter, are communicated back to the client via headers, status and response body.
 
 In REST, the client must include all information for the server to fulfill the request, resending state as necessary if that state must span multiple requests. &nbsp; Statelessness enables greater scalability since the server does not have to maintain, update or communicate that session state. &nbsp; Additionally, load balancers don't have to worry about session affinity for stateless systems. 
 
