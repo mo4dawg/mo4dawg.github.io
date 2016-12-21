@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "Come On Washington Democrats – Electoral College is Serious Business " 
+title: "Electoral College is Serious Business" 
 date: 2016-12-20 
 tags:  
 - living 
