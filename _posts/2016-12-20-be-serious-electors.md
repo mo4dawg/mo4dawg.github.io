@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "Come On Washington Democrats – Electoral College Electors Are Serious Business " 
+title: "Come On Washington Democrats – Electoral College is Serious Business " 
 date: 2016-12-20 
 tags:  
 - living 
@@ -8,7 +8,7 @@ published: true
 --- 
 What's with the folks selected to be our state's electoral college electors? &nbsp; How were these people picked? &nbsp; Each party selects the electors to represent the state voters for that party. &nbsp; The winning party gets to have their electors cast the votes. &nbsp; Since our state voted democratic you would expect our 12 votes to be for Hillary Clinton. &nbsp; Who voted for Colin Powell?  &nbsp; Not me, and I would guess not you. 
  
-I get that this was a protest vote.  &nbsp; But let's think about this, why not vote for the one person that might beat Trump? &nbsp; But alas, our 12 votes went 8 to Clinton, 3 to Powell and 1 to a First Nations leader in North Dakota. &nbsp; The only message I see here is immaturity. &nbsp; A childish protest. &nbsp; It's also embarrassing that our state electors do not have perspective. &nbsp; I'm not against protest, but I am against small groups undermining the political process .&nbsp; We can change the electoral college, but we should not disregard it. 
+I get that this was a protest vote.  &nbsp; But let's think about this, why not vote for the one person that might beat Trump? &nbsp; But alas, our 12 votes went 8 to Clinton, 3 to Powell and 1 to a First Nations leader in North Dakota. &nbsp; The only message I see here is immaturity. &nbsp; A childish protest. &nbsp; It's also embarrassing that our state electors do not have perspective. &nbsp; I'm not against protest, but I am against small groups undermining the political process. &nbsp; We can change the electoral college, but we should not disregard it. 
 
 Come on Democrats, you need to pick party leaders and serious electors not some representatives of every odd group for the sake of political correctness. &nbsp; One of those that did not vote for Clinton is a 19 year old woman. &nbsp; This is not a democratic leader or someone whom has enough life experience to understand the implications of such a random vote. &nbsp; Thank goodness only Washington state was this out of tune with our electoral duties. 
 
