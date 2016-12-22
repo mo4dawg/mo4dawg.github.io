@@ -6,7 +6,7 @@ tags:
 - living 
 published: true 
 --- 
-What's with the folks selected to be our state's electoral college electors? &nbsp; How were these people picked? &nbsp; Each party selects electors to represent the voters for that party. &nbsp; The winning party gets to have their electors cast the votes. &nbsp; Since our state voted democratic you would expect our 12 votes to be for Hillary Clinton. &nbsp; But this is not what happened inkour state.
+What's with the folks selected to be our state's electoral college electors? &nbsp; How were these people picked? &nbsp; Each party selects electors to represent the voters for that party. &nbsp; The winning party gets to have their electors cast the votes. &nbsp; Since our state voted democratic you would expect our 12 votes to be for Hillary Clinton. &nbsp; But this is not what happened in our state.
  
 I get that this was a protest vote.  &nbsp; But let's think about this, why not vote for the one person that might beat Trump? &nbsp; But alas, our 12 votes went 8 to Clinton, 3 to Powell and 1 to a First Nations leader in North Dakota.  Who voted for Colin Powell?  &nbsp; Not me, and I would guess not you.  &nbsp; The only message I see here is immaturity. &nbsp; A childish protest. &nbsp; It's also embarrassing that our state electors do not have perspective. &nbsp; I'm not against protest, but I am against small groups undermining the political process. &nbsp; We can change the electoral college, but we should not disregard it. 
 
