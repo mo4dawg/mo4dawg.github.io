@@ -36,12 +36,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
+  /*  background-color: #4b2e84; */
 nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
     list-style: none;
-    background-color: #4b2e84;
+    background-color: #002244;
     font-size: 1.5em;
     line-height: 2.0em;
     font-weight: bold;
@@ -73,10 +73,11 @@ table, th , td {
     padding: 5px;
 }
 
+/* color: #18188F;*/
 footer {
     border-top: 2px solid #444499;
     font-size: .8em;
-     color: #18188F;
+     color: #002244;
 }
 
 ul.posts { 
