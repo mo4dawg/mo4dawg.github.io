@@ -19,6 +19,7 @@ nav ul, footer ul {
     line-height: 2.0em;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     color: #111;
@@ -48,6 +49,9 @@ p {
 table, th , td {
     border-collapse: collapse;
     padding: 5px;
+    color: #69be28;
+    background-color: #002244;
+		
 }
 
 /* color: #18188F;*/
