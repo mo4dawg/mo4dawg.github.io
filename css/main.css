@@ -61,6 +61,7 @@ nav ul, footer ul {
     padding: 5px;
     list-style: none;
     font-size: 1.5em;
+    background-color: #A5ACAF;
     line-height: 2.0em;
     font-weight: bold;
 }
@@ -75,6 +76,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+li a:hover{
+	background-color: #083858;
+	color: #69be28;
+}
+
 h1 {
     font-size: 2.5em;
     font-family:'Roboto', 'Arial', sans-serif;
