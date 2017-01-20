@@ -56,6 +56,14 @@ body {
     width: 100%;
 }
 
+a {
+    text-decoration: none;
+    color: #289;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
@@ -68,13 +76,6 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #289;
-}
-a:hover {
-    text-decoration: underline;
 }
 
 li a:hover{
