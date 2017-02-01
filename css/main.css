@@ -68,9 +68,9 @@ nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
     list-style: none;
-    font-size: 1.5em;
+    font-size: 1.3em;
     background-color: #A5ACAF;
-    line-height: 2.0em;
+    line-height: 1.7em;
     font-weight: bold;
 }
 nav ul li, footer ul li {
@@ -102,7 +102,7 @@ p {
     color: #222; 
 }
 body ul{
-    font-size: 1.4em;
+    font-size: 1.3em;
     line-height: 1.3em;
 }
 table, th , td {
@@ -124,7 +124,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-family:'Roboto', 'Arial', sans-serif;
-    font-size: 1.4em;
+    font-size: 1.3em;
     line-height: 1.3em;
 }
 
