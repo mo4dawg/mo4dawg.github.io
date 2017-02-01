@@ -73,8 +73,8 @@ h2 {
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 p {
-    font-size: 1.2em;
-    line-height: 1.2em;
+    font-size: 1.1em;
+    line-height: 1.1em;
     color: #000000; 
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
@@ -92,7 +92,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 
 ul.posts li {
