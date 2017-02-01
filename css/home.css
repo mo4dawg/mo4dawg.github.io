@@ -47,9 +47,9 @@ nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
     list-style: none;
-    font-size: 1.5em;
+    font-size: 1.3em;
     background-color: #A5ACAF;
-    line-height: 2.0em;
+    line-height: 1.8em;
     font-weight: bold;
 }
 nav ul li, footer ul li {
@@ -73,8 +73,8 @@ h2 {
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 p {
-    font-size: 1.3em;
-    line-height: 1.3em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     color: #000000; 
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
@@ -92,7 +92,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.4em;
 }
 
 ul.posts li {
