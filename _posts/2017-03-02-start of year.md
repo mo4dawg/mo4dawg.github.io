@@ -1,6 +1,6 @@
 --- 
 layout: post  
-title: "2017 Activities Curtailed" 
+title: "2017 Running Curtailed" 
 date: 2017-03-02 
 tags:
 - running 
