@@ -12,7 +12,7 @@ My January and February totals are lame.  I did not run at all the last week of 
 
 On a brighter note, I did run yesterday.  But I cut it short, to about 4.5 miles because I need to avoid overdoing it.  My best run in February was on Feb 13 which is the last time I ran my full training run.  That run was 6.85 miles for a 9:33 pace which is a full minute off my October/November pace. 
 
-My goal was to be in the 12-15 runs per month range and to keep my times from falling off too far over the winter.  I failed on both. :(
+My goals were to be in the 12-15 runs per month range and to keep my times from falling off too far over the winter.  I failed on both. :(
 
 So here are the lame recaps for January and February. 
 
