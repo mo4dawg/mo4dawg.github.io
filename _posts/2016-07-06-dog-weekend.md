@@ -6,7 +6,7 @@ tags:
 - living
 published: true
 ---
-I haven't posted for a while.  &nbsp; Basically nothing compelling has happened except for a few job hunt setbacks.  &nbsp; However I was introduced to Beckler Peak over the holiday.  &nbsp; This is a great hike off of Hwy 2.  &nbsp; You take Forest Service Road 6066 left 1.9 miles past the Skykomish Ranger Station.  &nbsp; The trail head is 6.5 miles up a gravel road that is pocked with deep potholes but you can steer around them.   &nbsp; The hike itself is just under 4 miles each way starting at an elevation above 2700 feet and climbs to about 5100 feet. 
+I was introduced to Beckler Peak over the holiday.  &nbsp; This is a great hike off of Hwy 2.  &nbsp; You take Forest Service Road 6066 left 1.9 miles past the Skykomish Ranger Station.  &nbsp; The trail head is 6.5 miles up a gravel road that is pocked with deep potholes but you can steer around them.   &nbsp; The hike itself is just under 4 miles each way starting at an elevation above 2700 feet and climbs to about 5100 feet. 
 
 We decided to do this Saturday, July 2.  &nbsp; Considering that's smack in the middle of the Independence Day holiday weekend I was pleasantly surprised to find the traffic good and the parking area only mostly full.  &nbsp; The weather was low sixties with broken clouds, perfect for a day hike.  &nbsp;  We had the two big dogs, Jack and Bear, with us and they carried their own food and water.  &nbsp; In fact, they carried the human food too. :-) 
 
