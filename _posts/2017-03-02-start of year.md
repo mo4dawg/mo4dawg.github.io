@@ -2,7 +2,8 @@
 layout: post  
 title: "2017 Activities Curtailed" 
 date: 2017-03-02 
-  tags:- running 
+tags:
+   - running 
 published: true 
 --- 
 So, I guess 2017 is not starting out too clean.  Weather has been a factor, a never ending sinus problem, and Karen's work schedule have slowed things.  But now I have a new injury with my knees.  In particular my right knee clicks with every step so I'm real hesitant to over use it. 
