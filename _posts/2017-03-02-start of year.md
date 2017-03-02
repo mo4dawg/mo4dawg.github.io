@@ -14,7 +14,7 @@ On a brighter note, I did run yesterday. &nbsp;  But I cut it short, to about 4.
 
 My goals were to be in the 12-15 runs per month range and to keep my times from falling off too far over the winter. &nbsp; I failed on both. &nbsp; :(
 
-So here are the lame recaps for January and February. 
+So here are the recaps for January and February. 
 
 All runs:
 
