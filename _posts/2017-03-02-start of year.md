@@ -12,3 +12,7 @@ On a brighter note, I did run yesterday.  But I cut it short, to about 4.5 miles
 So here are the lame recaps for January and February. 
 All runs: 
 
+
+Runs by myself
+https://cloud.githubusercontent.com/assets/19477681/23523273/15cd423a-ff3b-11e6-95f3-a23b7061d117.jpg
+
