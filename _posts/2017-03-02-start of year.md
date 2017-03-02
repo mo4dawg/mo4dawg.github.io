@@ -12,7 +12,7 @@ My January and February totals are lame. &nbsp; I did not run at all the last we
 
 On a brighter note, I did run yesterday. &nbsp;  But I cut it short, to about 4.5 miles because I need to avoid overdoing it. &nbsp; My best run in February was on Feb 13 which is the last time I ran my full training run. &nbsp; That run was 6.85 miles for a 9:33 pace which is a full minute off my October/November pace. 
 
-My goals were to be in the 12-15 runs per month range and to keep my times from falling off too far over the winter. &nbsp; I failed on both. &nbsp; :(  Also my distance per run is down significanty from 6.55 miles per run in 2016.  Hopefully warmer weather and improvement in my knee will allow me to add distance. I enjoy the occasional long run where I drop into downtown Edmonds.  Those tend to be over 9 miles.
+My goals were to be in the 12-15 runs per month range and to keep my times from falling off too far over the winter. &nbsp; I failed on both.  :(  &nbsp;  Also my distance per run is down significanty from 6.55 miles per run in 2016. &nbsp; Hopefully warmer weather and improvement in my knee will allow me to add distance. &nbsp; I enjoy the occasional long run where I drop into downtown Edmonds. &nbsp; Those tend to be over 9 miles.
 
 So here are the recaps for January and February. 
 
