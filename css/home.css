@@ -28,7 +28,10 @@
 .MyULHuskiesClass {
    background-color:#39275b;
 }
-    
+.TedClass{
+   border: 2px solid red;
+   display: inline-block;
+}
 
 
 body {
