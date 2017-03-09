@@ -40,7 +40,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #289;
+    color: #25A;
 }
 a:hover {
     text-decoration: underline;
@@ -57,7 +57,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    color: #333;
+    color: #555;
     margin-right: 20px;
 }
  
@@ -78,7 +78,7 @@ h2 {
 p {
     font-size: 1.1em;
     line-height: 1.1em;
-    color: #333333; 
+    color: #555555; 
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 table, th , td {
