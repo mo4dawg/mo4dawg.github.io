@@ -40,7 +40,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #255880;
+    color: #083858;
 }
 a:hover {
     text-decoration: underline;
@@ -50,9 +50,9 @@ nav ul, footer ul {
     font-family:'Comic Sans MS', 'Arial', 'Sans-Serif';
     padding: 5px;
     list-style: none;
-    font-size: 1.3em;
+    font-size: 1.2em;
     background-color: #A5ACAF;
-    line-height: 1.5em;
+    line-height: 1.3em;
     font-weight: bold;
 }
 nav ul li, footer ul li {
@@ -71,14 +71,14 @@ h1 {
     font-family:'Roboto', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 1.7em;
+    font-size: 1.6em;
     line-height: 1.4em;
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 p {
     font-size: 1.0em;
     line-height: 1.0em;
-    color: 666655; 
+    color: #666666; 
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 table, th , td {
