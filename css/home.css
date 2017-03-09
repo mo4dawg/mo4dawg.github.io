@@ -57,7 +57,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    color: #555;
+    color: #665;
     margin-right: 20px;
 }
  
@@ -76,9 +76,9 @@ h2 {
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 p {
-    font-size: 1.1em;
-    line-height: 1.1em;
-    color: #555555; 
+    font-size: 1.0em;
+    line-height: 1.0em;
+    color: 666655; 
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
 table, th , td {
@@ -95,7 +95,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 ul.posts li {
