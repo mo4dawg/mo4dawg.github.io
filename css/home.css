@@ -30,6 +30,7 @@
 }
 .TedClass{
    border: 3px solid red;
+   background-color: #801000;
    display: inline-block;
 }
 
