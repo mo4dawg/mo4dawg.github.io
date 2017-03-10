@@ -30,11 +30,9 @@
 }
 .TedClass{
    border: 4px solid red;
-   background-color: #B00000;
+   background-color: #C00000;
    display: inline-block;
 }
-
-
 
 body {
     // margin: 60px auto;
