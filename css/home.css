@@ -85,7 +85,8 @@ p {
 
 caption{
    border: 3px solid red;
-   display: inline-block;
+   display: table-caption;
+   text-align: center;
 }
 
 table, th , td {
