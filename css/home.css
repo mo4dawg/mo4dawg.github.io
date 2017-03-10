@@ -32,10 +32,7 @@
    border: 3px solid red;
    display: inline-block;
 }
-.CaptionClass{
-   border: 3px solid red;
-   display: inline-block;
-}
+
 
 
 body {
@@ -85,6 +82,12 @@ p {
     color: #484848; 
     font-family:'Roboto', 'Arial', 'Sans-Serif'
 }
+
+caption{
+   border: 3px solid red;
+   display: inline-block;
+}
+
 table, th , td {
     border-collapse: collapse;
     padding: 5px;
