@@ -84,7 +84,6 @@ p {
 }
 
 caption{
-   border: 3px solid red;
    display: table-caption;
    text-align: center;
 }
