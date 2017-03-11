@@ -33,6 +33,10 @@
    background-color: #fcfae8;
    display: inline-block;
 }
+.LeftCaption{
+    display: table-caption;
+    text-align: left;
+}
 
 body {
     // margin: 60px auto;
