@@ -38,6 +38,15 @@
     text-align: left;
 }
 
+.picture-box { 
+  position: absolute;
+  z-index: 3;
+  background: #224488;
+  width: 260;
+  left: 60%;
+  top: 3em;
+}
+
 body {
     // margin: 60px auto;
     width: 100%;
