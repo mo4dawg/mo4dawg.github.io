@@ -9,10 +9,12 @@ title: Kevin Connell is a technology leader in the greater Seattle area.
 	var flag = false;
 	
     // on mouseover make the image large 
+	   
 	function large($a)
 	{
 		document.getElementById($a).style.width = "256px";
 		document.getElementById($a).style.height = "192px";
+		document.getElementById("myDIV").style.zIndex = "1";
 	}
 	
 	// on mouseout make the image normal size
@@ -20,6 +22,7 @@ title: Kevin Connell is a technology leader in the greater Seattle area.
 	{
 		document.getElementById($a).style.width = "64px";
 		document.getElementById($a).style.height = "48px";
+		document.getElementById("myDIV").style.zIndex = "-1";
 		flag = false;
 	}
 	
@@ -34,33 +37,11 @@ title: Kevin Connell is a technology leader in the greater Seattle area.
 		{
 			document.getElementById($a).style.width = "512px";
 			document.getElementById($a).style.height = "384px";
+			document.getElementById("myDIV").style.zIndex = "1";
 			flag = true;
 		}
 	//	(flag)?flag=false:flag=true;
-	} 
-	
-	// Vertical Orientation
-	function vNormal($a) 
-	{
-		document.getElementById($a).style.width = "48px";
-		document.getElementById($a).style.height = "64px";
-		flag = false;
-	}
-	
-	function vResize($a) 
-	{
-		if(flag) 
-		{
-			vNormal($a);	
-		}
-		else
-		{
-			document.getElementById($a).style.width = "384px";
-			document.getElementById($a).style.height = "512px";
-			flag = true;
-		}
-	}
-	
+	} 	
 	//-->
 	</script>
    
@@ -72,31 +53,31 @@ title: Kevin Connell is a technology leader in the greater Seattle area.
   			</td>
   			<td  width = "60%" align = "center"  style="text-align:center;color:#69be28; background-color:#002244"><h1>Kevin Connell<br>Senior Technology Leader</h1><h2 style="color:#69be28;">Greater Seattle Area</h2>
   			</td>  
-			  <!-- <td>
+			  <!-- <td >
 				<table CELLPADDING="2" CELLSPACING="2">
 					<tr>
-          		 			<td><img id="img1" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-           					<td><img id="img2" title="You won't forget me" src="https://cloud.githubusercontent.com/assets/19477681/15695214/b8dbaabc-2759-11e6-8918-578a2028d615.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-						<td> <img id="img3" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-						<td> <img id="img4" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+          		 			<td style="background-color:#002244"><img id="img1" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+           					<td style="background-color:#002244"><img id="img2" title="You won't forget me" src="https://cloud.githubusercontent.com/assets/19477681/15695214/b8dbaabc-2759-11e6-8918-578a2028d615.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+						<td style="background-color:#002244"><img id="img3" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+						<td style="background-color:#002244"><img id="img4" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
 					</tr>
            				<tr>
-           					<td><img id="img1" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-           					<td> <img id="img2" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-						<td> <img id="img3" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-						<td> <img id="img4" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+           					<td style="background-color:#002244"><img id="img5" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+           					<td style="background-color:#002244"><img id="img6" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+						<td style="background-color:#002244"><img id="img7" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+						<td style="background-color:#002244"><img id="img8" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
            				</tr>
 					<tr>
-           					<td><img id="img1" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-           					<td> <img id="img2" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-						<td> <img id="img3" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-						<td> <img id="img4" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+           					<td style="background-color:#002244"><img id="img9" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+           					<td style="background-color:#002244"><img id="img10" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+						<td style="background-color:#002244"><img id="img11" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+						<td style="background-color:#002244"><img id="img12" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
            				</tr>
 					<tr>
-           					<td><img id="img1" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-           					<td> <img id="img2" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-						<td> <img id="img3" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
-						<td> <img id="img4" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+           					<td style="background-color:#002244"><img id="img13" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+           					<td style="background-color:#002244"><img id="img14" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+						<td style="background-color:#002244"><img id="img15" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
+						<td style="background-color:#002244"><img id="img16" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
            				</tr>
            			</table>
 			   </td> -->
