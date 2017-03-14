@@ -38,6 +38,10 @@
     text-align: left;
 }
 
+.container {
+    position: relative;
+}
+
 #picture-box { 
   position: absolute;
   z-index: 3;
