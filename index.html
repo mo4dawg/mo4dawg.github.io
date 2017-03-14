@@ -2,7 +2,62 @@
 layout: home
 title: Kevin Connell is a technology leader in the greater Seattle area.
 ---
-    
+<script>
+    // on mouseover make the image large 
+	function large($a)
+	{
+		document.getElementById($a).style.width = "560px";
+		document.getElementById($a).style.height = "420px";
+	}
+	
+	// on mouseout make the image normal size
+	function normal($a)
+	{
+		document.getElementById($a).style.width = "448px";
+		document.getElementById($a).style.height = "336px";
+		flag = false;
+	}
+	
+	// click the image for even larger scale
+	function resize($a) 
+	{
+		if(flag) 
+		{
+			normal($a);
+		} 
+		else 
+		{
+			document.getElementById($a).style.width = "784px";
+			document.getElementById($a).style.height = "588px";
+			flag = true;
+		}
+	//	(flag)?flag=false:flag=true;
+	} 
+	
+	// Vertical Orientation
+	function vNormal($a) 
+	{
+		document.getElementById($a).style.width = "336px";
+		document.getElementById($a).style.height = "448px";
+		flag = false;
+	}
+	
+	function vResize($a) 
+	{
+		if(flag) 
+		{
+			vNormal($a);	
+		}
+		else
+		{
+			document.getElementById($a).style.width = "588px";
+			document.getElementById($a).style.height = "784px";
+			flag = true;
+		}
+	}
+	
+	//-->
+	</script>
     <div class="blurb">
     
     	<table>
