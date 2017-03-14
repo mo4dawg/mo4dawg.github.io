@@ -38,7 +38,7 @@
     text-align: left;
 }
 
-.picture-box { 
+#picture-box { 
   position: absolute;
   z-index: 3;
   background: #224488;
