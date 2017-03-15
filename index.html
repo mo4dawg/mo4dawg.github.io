@@ -14,7 +14,8 @@ title: Kevin Connell is a technology leader in the greater Seattle area.
 	{
 		document.getElementById($a).style.width = "256px";
 		document.getElementById($a).style.height = "192px";
-		document.getElementById($b).style.zIndex = "2";
+		var x = document.getElementsByClassName($b);
+		x[0].style.zIndex="2";
 	}
 	
 	// on mouseout make the image normal size
@@ -22,7 +23,8 @@ title: Kevin Connell is a technology leader in the greater Seattle area.
 	{
 		document.getElementById($a).style.width = "64px";
 		document.getElementById($a).style.height = "48px";
-		document.getElementById($b).style.zIndex = "-1";
+		var x = document.getElementsByClassName($b);
+		x[0].style.zIndex="-1";
 		flag = false;
 	}
 	
@@ -37,7 +39,8 @@ title: Kevin Connell is a technology leader in the greater Seattle area.
 		{
 			document.getElementById($a).style.width = "512px";
 			document.getElementById($a).style.height = "384px";
-			document.getElementById($b).style.zIndex = "2";
+			var x = document.getElementsByClassName($b);
+		        x[0].style.zIndex="-1";
 			flag = true;
 		}
 	//	(flag)?flag=false:flag=true;
@@ -53,11 +56,11 @@ title: Kevin Connell is a technology leader in the greater Seattle area.
   			</td>
   			<td  width = "90%" align = "center"  style="text-align:center;color:#69be28; background-color:#002244"><h1>Kevin Connell<br>Senior Technology Leader</h1><h2 style="color:#69be28;">Greater Seattle Area</h2>
   			</td>  
-			  <td> <div class="container"><div class="myDIV" id2="div1">
+			  <td> <div class="container"><div class="myDIV" id2="myDIV">
 				<table CELLPADDING="2" CELLSPACING="2">
 					<tr>
-          		 			<td style="background-color:#002244"><img id="img1" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id,id2)" onmouseout="normal(id,id2)" onclick="resize(id,id2)"></td>
-           					<td style="background-color:#002244"><img id="img2" title="You won't forget me" src="https://cloud.githubusercontent.com/assets/19477681/15695214/b8dbaabc-2759-11e6-8918-578a2028d615.jpg" width="64" height="48" onmouseover="large(id,id2)" onmouseout="normal(id,id2)" onclick="resize(id,id2)"></td>
+          		 			<td style="background-color:#002244"><div id="img1"><img title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id,id2)" onmouseout="normal(id,id2)" onclick="resize(id,id2)"></div></td>
+           					<td style="background-color:#002244"><div id="img1"><img title="You won't forget me" src="https://cloud.githubusercontent.com/assets/19477681/15695214/b8dbaabc-2759-11e6-8918-578a2028d615.jpg" width="64" height="48" onmouseover="large(id,id2)" onmouseout="normal(id,id2)" onclick="resize(id,id2)"></div></td>
 						<td style="background-color:#002244"><img id="img3" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
 						<td style="background-color:#002244"><img id="img4" title="Let's Go!" src="https://cloud.githubusercontent.com/assets/19477681/15688639/e0a097b2-272f-11e6-8ab4-53280670f92c.jpg" width="64" height="48" onmouseover="large(id)" onmouseout="normal(id)" onclick="resize(id)"></td>
 					</tr>
