@@ -45,8 +45,8 @@
 .pictureBox { 
   position: absolute;
   width: 240;
-  right: 60%;
-  bottom: 10%;
+  left: 60%;
+  bottom: 5%;
 }
 
 body {
