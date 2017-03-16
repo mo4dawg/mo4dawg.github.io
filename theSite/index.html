@@ -21,6 +21,15 @@ title: About this Website
 			}
    		 }
 	}
+	
+	function showImage(imgName) {
+   		var curImage = document.getElementById('currentImg');
+   		var thePath = 'https://cloud.githubusercontent.com/assets/19477681/';
+   		var theSource = thePath + imgName;
+		curImage.src = theSource;
+   		curImage.alt = imgName;
+   		curImage.title = imgName;
+	}
 //-->
 	</script>
 	
@@ -42,7 +51,26 @@ title: About this Website
   <p>If you want to make a page different from the rest you can create a separate css file and a separate layout page putting them under the corresponding folders.  This has been real fun as I have experimented with background photos for the home page.  A single edit of the hompage index.html from the default layout to the home layout can immediately toggle between the trial vesion and the original version.</p>
   <p>Lastly this site is a work in progress.</p>
   <p>Kevin</p>
-  <!--  
+	
+ <br /><br /><br />
+<p> Pick a Theme! &nbsp; All colors are the official team authorized Hex values</p>
+<div id="mainContainer">
+   <div id="leftNav">
+      <img src="https://cloud.githubusercontent.com/assets/19477681/22032408/3888f4e6-dc99-11e6-90ef-41ef703a293b.jpg" alt="husky colors" title="Husky Colors" onclick="showImage('22032408/3888f4e6-dc99-11e6-90ef-41ef703a293b.jpg');" />
+      <br />
+      <img src="https://cloud.githubusercontent.com/assets/19477681/21833290/ff512654-d765-11e6-8306-cb2a1888901e.jpg"  alt="Seahawks Logo" title="Seahawk Logo" onclick="showImage('21833290/ff512654-d765-11e6-8306-cb2a1888901e.jpg');" />
+      <br />
+      <img src="https://cloud.githubusercontent.com/assets/19477681/22004707/d7784610-dc12-11e6-8a61-fe288761d12d.png" alt="Sounders Logo" title="Sounders Logo" onclick="showImage('22004707/d7784610-dc12-11e6-8a61-fe288761d12d.png');" />
+      <br />
+    
+   </div>
+   <div id="rightDisplay">
+      <img id="currentImg" src="https://cloud.githubusercontent.com/assets/19477681/22032408/3888f4e6-dc99-11e6-90ef-41ef703a293b.jpg" alt="Team Logo" title="Team Logo" />
+   </div>
+</div>
+
+ <!--  
+
 	<p> Pick a Theme! &nbsp; All colors are the official team authorized Hex values</p>
 	<table>
 		<tr>
