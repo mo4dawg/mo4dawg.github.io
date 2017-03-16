@@ -42,13 +42,11 @@
     position: relative;
 }
 
-#picture-box { 
+.pictureBox { 
   position: absolute;
-  z-index: 3;
-  background: #224488;
-  width: 260;
+  width: 360
   left: 60%;
-  top: 3em;
+  bottom: 20%;
 }
 
 body {
