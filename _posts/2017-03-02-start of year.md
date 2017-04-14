@@ -16,11 +16,11 @@ My goals were to be in the 12-15 runs per month range and to keep my times from 
 
 So here are the recaps for January and February. 
 
-All runs:
-
-![All runs Jan and Feb](https://cloud.githubusercontent.com/assets/19477681/23523419/aff6174c-ff3b-11e6-9197-a83db416afd9.jpg)
-
 Runs just by myself:
 
 ![My runs Jan and Feb](https://cloud.githubusercontent.com/assets/19477681/23523273/15cd423a-ff3b-11e6-95f3-a23b7061d117.jpg)
 
+
+All runs:
+
+![All runs Jan and Feb](https://cloud.githubusercontent.com/assets/19477681/23523419/aff6174c-ff3b-11e6-9197-a83db416afd9.jpg)
