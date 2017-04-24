@@ -1,6 +1,6 @@
 name: Kevin Connell, Technology Leader
 description:  Kevin Connell's Blog
-url:  http://www.kevinjconnell.com/blog
+url:  https://www.kevinjconnell.com/blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
