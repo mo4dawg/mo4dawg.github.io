@@ -7,8 +7,8 @@
 
 .MyZoomInClass
 {
-    zoom: .8; 
-    -moz-transform: scale(0.8);    
+    zoom: .75; 
+    -moz-transform: scale(0.75);    
 }
 .MyTopClass {
     border-top:thin solid;
