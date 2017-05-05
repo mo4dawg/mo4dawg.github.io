@@ -5,6 +5,11 @@
     -moz-transform: scale(1.2);     
 }
 
+.MyZoomInClass
+{
+    zoom: .8; 
+    -moz-transform: scale(0.8);    
+}
 .MyTopClass {
     border-top:thin solid;
     border-color:black;
