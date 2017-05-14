@@ -2,7 +2,8 @@
 layout: post  
 title: "Spring Raised Gardens" 
 date: 2017-05-13 
-  tags:- living 
+tags:
+ - living 
 published: true 
 --- 
 This spring we have had a large project of building a garden. &nbsp; This has been quite fulfilling and we are both proud of what we have to date. 
