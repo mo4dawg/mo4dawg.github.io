@@ -16,6 +16,9 @@ Then, also on Craig's List, Karen found someone who would deliver high quality 2
 I only planted peas and a few sunflowers while she was in Europe. &nbsp; The week after she got home we went to work planting all kinds of veggies and leaving one of the six beds dedicated to dahlias. 
 
 Before 
+
 ![Dog Kennel Ugliness](https://cloud.githubusercontent.com/assets/19477681/26036714/e8abc812-3897-11e7-969a-7feaf0c8999d.png){:height="303x" width="444px"}*Dog kennel and old doghouse* 
+
 After 
-![Freshly planted beds](https://cloud.githubusercontent.com/assets/19477681/25641309/42843076-2f48-11e7-8559-19d79164e3a0.jpg){:height="504x" width="688px"}*Freshly planted beds* 
+
+![Freshly planted beds](https://cloud.githubusercontent.com/assets/19477681/25641309/42843076-2f48-11e7-8559-19d79164e3a0.jpg){:height="403x" width="550px"}*Freshly planted beds* 
