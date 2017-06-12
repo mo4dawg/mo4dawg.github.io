@@ -8,6 +8,8 @@ published: true
 ---
 
 Yesterday Karen and I went on a nice day hike to Annette Lake near Snoqualmie Pass. &nbsp; This is a moderate hike about 3.4 miles each way with the first couple miles having a good rate of ascent before it flattens out in the valley as you approach the lake. &nbsp; Karen and I made excellent time going up and were there in about 90 minutes.
+
+![K&K Selfie Annette Lake trail](https://user-images.githubusercontent.com/19477681/27045507-e12d2d0e-4f55-11e7-8a15-5545ed25d348.JPG){:height="504x" width="688px"} *Selfie at Annette Lake*
  
 We said “hi!” to a lot of polite people and met a lot of frisky happy dogs.  But on the way down we noticed a lot of younger people just don’t get some basic trail manners. &nbsp; Let’s face it, Karen and I never got passed in either direction because we are fit and were moving fast. &nbsp; So here are my complaints about the younger generation of hikers:
  
