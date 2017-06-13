@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Happened to Trail Etiquette?"
-date: 2017-06-11
+date: 2017-06-12
 tags: 
 - living
 published: true
