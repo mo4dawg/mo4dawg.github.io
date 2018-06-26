@@ -15,8 +15,11 @@ Now we have a lot of work to do.  &nbsp; Already we've done a bunch.  &nbsp; The
 
 ![Family Room Before ](https://user-images.githubusercontent.com/19477681/41931990-9629b142-7934-11e8-9b0b-494bfb3ccacd.JPG)*Family Room Before*
 
+![Karen priming fireplace ](https://user-images.githubusercontent.com/19477681/41931990-9629b142-7934-11e8-9b0b-494bfb3ccacd.JPG)*Karen Priming the Fireplace*
 
 However, the big stuff is coming. &nbsp;We have engaged Dave Heinen our architect because this house has no master bedroom.  &nbsp; We also don't know what to do about the "funky room".  &nbsp; The kitchen is in decent shape but then there is the powder, laundry, utility room combination. &nbsp;What a mess. &nbsp; Also, the electrical is a mess.  &nbsp; The circuits have too much stuff on them and a bunch of the plugs are two-pronged.  &nbsp; They are not grounded.
+
+![Family Room After ](https://user-images.githubusercontent.com/19477681/41931990-9629b142-7934-11e8-9b0b-494bfb3ccacd.JPG)*Family Room, now just the baseboards*
 
 And then there is the pool. &nbsp;We did not buy the house for the pool, but it was an intrigue.  &nbsp;A costly interest for sure.  &nbsp; The pool deck is a concrete nightmare.  &nbsp; The plaster seems decent.  &nbsp; The heater doesn't work.   &nbsp;I really know so very little about caring for a pool.
 
