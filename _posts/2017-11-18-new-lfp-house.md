@@ -13,13 +13,13 @@ When I was married in 1991 I moved into Suzanne's house. &nbsp;And then again in
 
 Now we have a lot of work to do.  &nbsp; Already we've done a bunch.  &nbsp; The family room has been transformed and I replaced baseboards throughout the house with shoe trim. &nbsp;  In the family room all surfaces including the ceiling were patched and painted.  &nbsp; The office was painted and I painted one of the living room walls.   &nbsp; Some outside work has been done as well.
 
-![Family Room Before ](https://user-images.githubusercontent.com/19477681/41931990-9629b142-7934-11e8-9b0b-494bfb3ccacd.JPG)*Family Room Before*
+![Family Room Before ](https://user-images.githubusercontent.com/19477681/41931990-9629b142-7934-11e8-9b0b-494bfb3ccacd.JPG){:height="540px" width="720px"}*Family Room Before*
 
-![Karen priming fireplace ](https://user-images.githubusercontent.com/19477681/41932064-cb4e5f1c-7934-11e8-8db3-c32f69d3063b.JPG)*Karen Priming the Fireplace*
+![Karen priming fireplace ](https://user-images.githubusercontent.com/19477681/41932064-cb4e5f1c-7934-11e8-8db3-c32f69d3063b.JPG){:height="540px" width="720px"}*Karen Priming the Fireplace*
 
 However, the big stuff is coming. &nbsp;We have engaged Dave Heinen our architect because this house has no master bedroom.  &nbsp; We also don't know what to do about the "funky room".  &nbsp; The kitchen is in decent shape but then there is the powder, laundry, utility room combination. &nbsp;What a mess. &nbsp; Also, the electrical is a mess.  &nbsp; The circuits have too much stuff on them and a bunch of the plugs are two-pronged.  &nbsp; They are not grounded.
 
-![Family Room After ](https://user-images.githubusercontent.com/19477681/41932107-f2b810f2-7934-11e8-998b-43e75ca5c128.JPG)*Family Room, now just the baseboards*
+![Family Room After ](https://user-images.githubusercontent.com/19477681/41932107-f2b810f2-7934-11e8-998b-43e75ca5c128.JPG){:height="540px" width="720px"}*Family Room, now just the baseboards*
 
 And then there is the pool. &nbsp;We did not buy the house for the pool, but it was an intrigue.  &nbsp;A costly interest for sure.  &nbsp; The pool deck is a concrete nightmare.  &nbsp; The plaster seems decent.  &nbsp; The heater doesn't work.   &nbsp;I really know so very little about caring for a pool.
 
