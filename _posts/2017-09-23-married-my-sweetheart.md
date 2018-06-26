@@ -2,9 +2,10 @@
 layout: post
 title: "Married My Sweetheart"
 date: 2017-09-23
-tags: 
+tags:
 - living
 published: true
+---
 
 Yesterday Karen and I were married in a private civil ceremony. &nbsp;And the kicker was that our fathers were the honorary witnesses. &nbsp;Today is a big get together with family and friends. &nbsp; We have put a lot of effort into getting the yard ready.  &nbsp; Karen has people helping with food, even her boss Connie.  
 
