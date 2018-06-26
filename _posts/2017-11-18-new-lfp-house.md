@@ -13,7 +13,7 @@ When I was married in 1991 I moved into Suzanne's house. &nbsp;And then again in
 
 Now we have a lot of work to do.  &nbsp; Already we've done a bunch.  &nbsp; The family room has been transformed and I replaced baseboards throughout the house with shoe trim. &nbsp;  In the family room all surfaces including the ceiling were patched and painted.  &nbsp; The office was painted and I painted one of the living room walls.   &nbsp; Some outside work has been done as well.
 
-![Family Room Before ](https://cloud.githubusercontent.com/assets/19477681/17874956/bbefbf34-6883-11e6-88e0-d37a1c49f9e6.jpg){:height="64x" }*Family Room Before*
+![Family Room Before ](https://user-images.githubusercontent.com/19477681/41931990-9629b142-7934-11e8-9b0b-494bfb3ccacd.JPG)*Family Room Before*
 
 
 However, the big stuff is coming. &nbsp;We have engaged Dave Heinen our architect because this house has no master bedroom.  &nbsp; We also don't know what to do about the "funky room".  &nbsp; The kitchen is in decent shape but then there is the powder, laundry, utility room combination. &nbsp;What a mess. &nbsp; Also, the electrical is a mess.  &nbsp; The circuits have too much stuff on them and a bunch of the plugs are two-pronged.  &nbsp; They are not grounded.
