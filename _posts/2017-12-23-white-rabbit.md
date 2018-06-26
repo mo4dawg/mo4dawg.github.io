@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White Rabbit"
+title: White Rabbit
 date: 2017-12-23
 tags:
 - living
