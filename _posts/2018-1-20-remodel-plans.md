@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remodel Plans"
+title: Remodel Plans
 date: 2018-1-20
 tags:
 - living
