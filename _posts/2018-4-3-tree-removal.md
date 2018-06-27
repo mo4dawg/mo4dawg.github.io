@@ -16,5 +16,5 @@ So the required replacement canopy turns out to be 450 square feet. &nbsp; They 
 These trees were pretty big.  &nbsp;We contracted with Davey Tree to remove the tress and to grind the stumps.  &nbsp;The entire process took a full month with the permitting and getting the arborist report and scheduling the actual work. &nbsp; The total bill was over $3K just to get those trees out.  &nbsp;Part two is to add replacement arborvitae trees with drip lines.  &nbsp;The bid for that is about $3500.
 
 
-![Tree Removal](https://user-images.githubusercontent.com/19477681/41935031-3b6cba98-793d-11e8-9aaa-665737508090.JPG){:height="270px" width="360px"}*Perspective of actual size of trees*
+![Tree Removal](https://user-images.githubusercontent.com/19477681/41992907-a8bdcfda-79fe-11e8-8f22-9d8f7ff0c799.jpg){:height="270px" width="360px"}*Perspective of actual size of trees*
 
