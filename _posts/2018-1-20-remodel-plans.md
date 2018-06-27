@@ -11,7 +11,7 @@ Our house is shaped like a backwards capital L, with the front of the house bein
 
 ![House Front](https://user-images.githubusercontent.com/19477681/41984617-ef196c32-79e5-11e8-82ba-ec61e8a422bb.jpg){:height="270px" width="360px"}*Front of House, Brochure photo, grass was not this nice.  Funky room is through french doors.*
 
-We couldn't figure out what to do with the funky room.  &nbsp;It's cold and drafty and ugly with very low beams. &nbsp; It used to be a billiards room. &nbsp; It has a far-out Fiji mural spanning the entire 20' of the north wall.  
+We couldn't figure out what to do with the funky room.  &nbsp;It's cold and drafty and ugly with very low beams. &nbsp; It used to be a billiards room. &nbsp; It has a far-out Fiji mural spanning the north wall. &nbsp; We use it for storage, a dog room, and it has a row of closets we use as a pantry. 
 
 ![Funky Room](https://user-images.githubusercontent.com/19477681/41984887-a41f9a20-79e6-11e8-9d70-f467f3f0a84f.jpg){:height="270px" width="360px"}*Funky room mural*
 
