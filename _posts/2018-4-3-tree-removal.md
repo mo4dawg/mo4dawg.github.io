@@ -18,4 +18,4 @@ These trees were pretty big.  &nbsp;We contracted with Davey Tree to remove the 
 
 ![Tree Removal](https://user-images.githubusercontent.com/19477681/41993538-a935e306-7a00-11e8-9d1a-02e36f66280c.jpg){:height="270px" width="360px"}*Perspective of actual size of trees*
 
-![Tree Removal2](){:height="270px" width="360px"}*Perspective shows proximity to pool*
+![Tree Removal2](https://user-images.githubusercontent.com/19477681/41993501-8c7f8fbe-7a00-11e8-8b92-4ecc8b70dd76.jpg){:height="270px" width="360px"}*Perspective shows proximity to pool*
