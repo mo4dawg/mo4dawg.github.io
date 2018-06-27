@@ -17,7 +17,7 @@ We couldn't figure out what to do with the funky room.  &nbsp;It's cold and draf
 ![Funky Room](https://user-images.githubusercontent.com/19477681/41984887-a41f9a20-79e6-11e8-9d70-f467f3f0a84f.jpg){:height="360px" width="480px"}
 *Funky room mural*
 
-But over the holiday after we had a Husky football bowl game party Karen came up with the new plan. &nbsp; Her genesis was actually the awkward bathroom with the amazing Euro shower located smack in the family room.  &nbsp;It really messes up flow. &nbsp; So her ingenious plan is to remove the bathroom and turn the funky room into a second master suite. &nbsp; Brilliant!
+But over the holiday, after we had a Husky football bowl game party, Karen came up with the new plan. &nbsp; Her genesis was he awkward bathroom with the amazing Euro shower located smack in the family room.  &nbsp;It really messes up flow. &nbsp; So her ingenious plan is to remove the bathroom and turn the funky room into a second master suite. &nbsp; Brilliant!
 
 All along we have planned to cannibalize the guest bedroom next to the master and create a master suite. &nbsp; But this would reduce the number of bedrooms from two to three. &nbsp; Karen's epiphany leaves us with three bedrooms and three bathrooms, but we have two master suites! &nbsp;  That's great for when we have visitors.
 
