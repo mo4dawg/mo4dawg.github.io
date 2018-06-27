@@ -13,7 +13,7 @@ Our house is shaped like a backwards capital L, with the front of the house bein
 
 We couldn't figure out what to do with the funky room.  &nbsp;It's cold and drafty and ugly with very low beams. &nbsp; It used to be a billiards room. &nbsp; It has a far-out Fiji mural spanning the entire 20' of the north wall.  
 
-![Funky Room](https://user-images.githubusercontent.com/19477681/41984617-ef196c32-79e5-11e8-82ba-ec61e8a422bb.jpg){:height="270px" width="360px"}*Funky room mural*
+![Funky Room](https://user-images.githubusercontent.com/19477681/41984887-a41f9a20-79e6-11e8-9d70-f467f3f0a84f.jpg){:height="270px" width="360px"}*Funky room mural*
 
 But over the holiday after we had a Husky football bowl game party Karen came up with the new plan. &nbsp; Her genesis was actually the awkward bathroom with the amazing Euro shower located smack in the family room.  &nbsp;It really messes up flow. &nbsp; So her ingenious plan is to remove the bathroom and turn the funky room into a second master suite. &nbsp; Brilliant!
 
