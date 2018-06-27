@@ -19,7 +19,7 @@ We couldn't figure out what to do with the funky room.  &nbsp;It's cold and draf
 
 But over the holiday, after hosting a Husky football bowl game party, Karen came up with the new plan. &nbsp; Her genesis was the awkward bathroom with the amazing Euro shower located smack in the family room.  &nbsp;It really messes up flow. &nbsp; So her ingenious plan is to remove that bathroom and turn the funky room into a second master suite. &nbsp; Brilliant!
 
-![Euro Shower](https://user-images.githubusercontent.com/19477681/42004790-3d395a90-7a26-11e8-98b1-53a28d88e852.jpg){:height="450px" width="600px"}
+![Euro Shower](https://user-images.githubusercontent.com/19477681/42004790-3d395a90-7a26-11e8-98b1-53a28d88e852.jpg){:height="600px" width=450px"}
 * Euro Steam Shower *
 
 All along we have planned to cannibalize the guest bedroom next to the master and create a master suite. &nbsp; But this would reduce the number of bedrooms from two to three. &nbsp; Karen's epiphany leaves us with three bedrooms and three bathrooms, and we have two master suites! &nbsp;  That's great for when we have visitors.
