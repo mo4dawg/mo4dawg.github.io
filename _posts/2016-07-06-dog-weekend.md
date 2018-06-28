@@ -10,13 +10,17 @@ I was introduced to Beckler Peak over the holiday.  &nbsp; This is a great hike 
 
 We decided to do this Saturday, July 2.  &nbsp; Considering that's smack in the middle of the Independence Day holiday weekend I was pleasantly surprised to find the traffic good and the parking area only mostly full.  &nbsp; The weather was low sixties with broken clouds, perfect for a day hike.  &nbsp;  We had the two big dogs, Jack and Bear, with us and they carried their own food and water.  &nbsp; In fact, they carried the human food too. :-) 
 
-![Jack and Bear](https://cloud.githubusercontent.com/assets/19477681/17874956/bbefbf34-6883-11e6-88e0-d37a1c49f9e6.jpg){:height="504x" width="688px"}*Bear and Jack on the hike*
+| ![Jack and Bear](https://cloud.githubusercontent.com/assets/19477681/17874956/bbefbf34-6883-11e6-88e0-d37a1c49f9e6.jpg){:height="504x" width="688px"} |
+|:-:|
+| *Bear and Jack on the hike* |
 
 The hike has a decent ascent rate but since we are in pretty good running shape it wasn't difficult.  we made the summit in about 90 minutes.   &nbsp; So even though we left the house after 9:00, stopped at Starbucks, drove most of the way to Stevens Pass, and 6.5 miles up a dirt road, we were on the summit at noon.   &nbsp; That was pretty good.   &nbsp; The dogs did very well going up.   &nbsp; I was impressed that Jack, who has a nickname of "1 mile Jack" did so well.   &nbsp; But at the summit you could see the exhaustion. 
 
 We took some great photos and fed the dogs some treats and water.  &nbsp; And then some water.  &nbsp; And more water.  &nbsp; Okay, they turned out to be pretty wasted.  &nbsp; They wouldn't touch the regular dog food and Jack wouldn't eat the treats, but Bear would.  
 
-![Mt index from Beckler Peak](https://cloud.githubusercontent.com/assets/19477681/16632783/ad94b4ae-437a-11e6-89e4-d53b5f89ccd5.JPG){:height="504x" width="688px"} *Mt Index from Beckler Peak*
+| ![Mt index from Beckler Peak](https://cloud.githubusercontent.com/assets/19477681/16632783/ad94b4ae-437a-11e6-89e4-d53b5f89ccd5.JPG){:height="504x" width="688px"} | 
+|:-:|
+| *Mt Index from Beckler Peak* |
 
 Coming down we were really flying around 14-15 minutes a mile.  &nbsp; But them with about a mile to go Jack sat down.  &nbsp; I mean he just sat down!  &nbsp; With some coaxing and water we got him down to a stream where both dogs took in some cold water.   &nbsp;Hopefully no giardia. &nbsp; Then there was another stream and Jack was about to just plain sit in it.  &nbsp; After a couple more sit-downs where we let Jack rest we made it to where a stream has washed out the trail indicating we had less than half a mile to go.   &nbsp; But immediately after climbing out of the washout Jack sat down.   &nbsp; This time was different.  &nbsp; I tried pulling him but he literally fell on his side so that I dragged him a couple feet.  Hmm, this dog weighs over a hundred pounds.  &nbsp; I tried lifting him with his backpack handle and helping him walk, but no he just crumpled down.  &nbsp; What to do?  &nbsp; I was contemplating lifting him up and putting him on my shoulders.  &nbsp; About that time a group we had recently passed came by with their little dog named Scout.   &nbsp; I think that did not sit well with the dogs.  &nbsp; Eventually Karen came up with idea to give them some cheese and that did the trick.   &nbsp; Jack had just enough energy to pick himself up and continue.
 
